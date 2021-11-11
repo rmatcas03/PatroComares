@@ -13,8 +13,16 @@
                             href="index.php">¿Quienes somos?</a></li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Actividades") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
                             href="about.php">Actividades</a></li>
-                    <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Instalaciones") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
-                            href="contact.php">Instalaciones</a></li>
+                            <li class="nav-item dropdown">
+                    <a class="nav-link py-3 px-0 px-lg-3  dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                        data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Instalaciones
+                    </a>
+                    <div class="dropdown-menu bg-secondary text-uppercase border-0 " aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item text-white" href="#">Pista de fútbol</a>
+                        <a class="dropdown-item text-white" href="#">Pista de baloncesto</a>
+                        <a class="dropdown-item text-white" href="#">Something else here</a>
+                    </div>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Eventos") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
                             href="contact.php">Eventos</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
