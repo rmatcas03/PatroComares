@@ -1,5 +1,5 @@
 <?php
-	switch ($_SERVER["SCRIPT_NAME"]) {
+	switch ($_SERVER["SCRIPT_NAME"])  {
 		case "/index.php":
 			$CURRENT_PAGE = "Index"; 
 			$PAGE_TITLE = "Portfolio";
