@@ -3,7 +3,7 @@
             <div class="row">
                 <!-- Footer Location-->
                 <div class="col-lg-6 mb-5 mb-lg-0">
-                    <h4 class="text-uppercase mb-4">Localización</h4>
+                    <h4 class="text-uppercase mb-4">Localización  </h4>
                     <p class="lead mb-0">
                     Avenida Juego de pelota ( Instalaciones Deportivas Municipales
                                                           Lucena ), s/n 23001 
