@@ -17,10 +17,11 @@
             <!-- Footer Social Icons-->
             <div class="col-lg-6 mb-5 mb-lg-0">
                 <h4 class="text-uppercase mb-4">Siguénos en redes sociales:</h4>
-                <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-Instagram"></i></a>
+                <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
+                <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
+                <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-instagram"></i></a>
+                <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+               
 
                 
             </div>
