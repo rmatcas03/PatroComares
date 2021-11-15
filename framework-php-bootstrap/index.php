@@ -4,6 +4,7 @@
 
 <head>
     <?php include("includes/head-tag-contents.php"); ?>
+    
 </head>
 
 <body>
@@ -13,7 +14,7 @@
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">
             <div class="container-fluid">
-                <div class="row">
+                <div class="row my-3">
                     <div class="col">
                         <!-- Carousel -->
                         <div id="demo" class="carousel slide" data-bs-ride="carousel">
