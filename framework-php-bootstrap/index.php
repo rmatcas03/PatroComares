@@ -7,7 +7,7 @@
 </head>
 
 <body>
-    
+
     <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Portfolio Section-->
@@ -27,13 +27,13 @@
                             <!-- The slideshow/carousel -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="assets\img\portfolio\cabin.png" alt="Los Angeles" class="d-block w-100">
+                                    <img src="https://lorempixel.com/people/800/300/" alt="Los Angeles" class="d-block w-100">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="assets\img\portfolio\game.png" alt="Chicago" class="d-block w-100">
+                                    <img src="https://lorempixel.com/people/800/300/" alt="Chicago" class="d-block w-100">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="assets\img\portfolio\cake.png" alt="New York" class="d-block w-100">
+                                    <img src="https://lorempixel.com/sports/800/300/" alt="New York" class="d-block w-100">
                                 </div>
                             </div>
 
@@ -49,19 +49,19 @@
 
                 </div>
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="card">
                             <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
                             <div class="card-text text-center">Noticia 1</div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="card">
                             <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
                             <div class="card-text text-center">Noticia 2</div>
                         </div>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-lg-4">
                         <div class="card">
                             <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
                             <div class="card-text text-center">Noticia 3</div>
