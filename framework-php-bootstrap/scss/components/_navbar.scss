@@ -5,6 +5,7 @@
 #mainNav {
     padding-top: 1rem;
     padding-bottom: 1rem;
+    height: $navbar-height;
     font-family: $headings-font-family;
     font-weight: $headings-font-weight;
 
@@ -45,6 +46,7 @@
     #mainNav {
         padding-top: 1.5rem;
         padding-bottom: 1.5rem;
+        height: $navbar-height;
         transition: padding-top 0.3s, padding-bottom 0.3s;
 
         .navbar-brand {

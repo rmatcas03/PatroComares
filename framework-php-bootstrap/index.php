@@ -12,7 +12,7 @@
     <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Portfolio Section-->
-        <section class="page-section portfolio" id="portfolio">
+        <section class="page-section portfolio margen-grande" id="portfolio">
             <div class="container-fluid">
                 <div class="row my-3">
                     <div class="col">

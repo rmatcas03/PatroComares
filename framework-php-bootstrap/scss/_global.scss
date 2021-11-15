@@ -28,3 +28,9 @@ html {
         }
     }
 }
+
+@include media-breakpoint-up(lg) {
+    .margen-grande {
+       padding-top: $navbar-height;
+    }
+}

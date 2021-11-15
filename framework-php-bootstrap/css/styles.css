@@ -7851,6 +7851,10 @@ html {
       font-size: 3rem;
       line-height: 2.5rem; } }
 
+@media (min-width: 992px) {
+  .margen-grande {
+    padding-top: 4.5rem; } }
+
 .divider-custom {
   margin: 1.25rem 0 1.5rem;
   width: 100%;
@@ -7892,6 +7896,7 @@ html {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  height: 4.5rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700; }
   #mainNav .navbar-brand {
@@ -7914,6 +7919,7 @@ html {
   #mainNav {
     padding-top: 1.5rem;
     padding-bottom: 1.5rem;
+    height: 4.5rem;
     transition: padding-top 0.3s, padding-bottom 0.3s; }
     #mainNav .navbar-brand {
       font-size: 1.75em;
