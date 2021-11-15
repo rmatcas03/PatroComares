@@ -20,7 +20,7 @@
                 color: $white;
 
                 &:hover {
-                    color: $primary;
+                    color: $secondary;
                 }
 
                 &:active,
@@ -29,7 +29,7 @@
                 }
 
                 &.active {
-                    color: $primary;
+                    color:$primary;
                 }
             }
         }
@@ -64,7 +64,7 @@
             &:focus,
             &:hover {
                 color: $white;
-                background: $primary;
+                background: $secondary;
             }
         }
     }

@@ -3,17 +3,14 @@
 // 
 
 //- Override and add to color system
-$nav-foot: #2c3e50;
-$botones: #7A7B7D;
-$fondo:#FFFFFF;
-$elementos:#2D4571;
+
 
 
 //- Override primary color
-$primero: $nav-foot;
-$segundo: $botones;
-$tercero:$fondo;
-$cuarto:$elementos;
+$primary: #2c3e50;
+$secondary: #7A7B7D;
+$tercero:#FFFFFF;
+$cuarto:#2D4571;
 // $danger: yellow;
 // The contrast ratio to reach against white, to determine if color changes from "light" to "dark". Acceptable values for WCAG 2.0 are 3, 4.5 and 7.
 // See https://www.w3.org/TR/WCAG20/#visual-audio-contrast-contrast
