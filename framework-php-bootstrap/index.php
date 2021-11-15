@@ -11,7 +11,7 @@
 <main>
 <!-- Portfolio Section-->
 <section class="page-section portfolio" id="portfolio">
-        <div class="container-fluid">
+    <div class="container-fluid">
         <div class="row">
                 <div class="col">
                     <!-- Carousel -->
@@ -44,13 +44,30 @@
                         <span class="carousel-control-next-icon"></span>
                     </button>
                 </div>
-
-            </div>
-            </div>
-</div>
         </div>
-    </section>
-    </main>
+        <div class="row">
+            <div class="col-md-4">
+                   <div class="card">
+                        <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="300px" height="300px"></div>
+                        <div class="card-text">Noticia 1</div>
+                    </div>
+                 </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="300px" height="300px"></div>
+                    <div class="card-text">Noticia 2</div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="300px" height="300px"></div>
+                    <div class="card-text">Noticia 3</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</main>
 
 <?php include("includes/footer.php");?>
 
