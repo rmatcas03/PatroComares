@@ -14,7 +14,7 @@ html {
 
 // Styling for page sections
 .page-section {
-    padding: 6rem 0;
+    padding: $navbar-height 0;
 
     .page-section-heading {
         font-size: 2.25rem;
@@ -26,11 +26,5 @@ html {
             font-size: 3rem;
             line-height: 2.5rem;
         }
-    }
-}
-
-@include media-breakpoint-up(lg) {
-    .margen-grande {
-       padding-top: $navbar-height;
     }
 }
