@@ -26,7 +26,7 @@
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Eventos") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
                             href="contact.php">Eventos</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
-                            href="contact.php">Noticias</a></li>
+                            href="noticiasDestacadas.php">Noticias</a></li>
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Contacto") {?>active<?php }?> py-3 px-0 px-lg-3 rounded"
                             href="contact.php">Contacto</a></li>
                             <div class="container">
