@@ -14,7 +14,7 @@
         <section class="page-section" id="contact">
             <div class="container-fluid">
                 <div class="d-flex justify-content-between row my-2">
-                    <div class="col-6">
+                    <div class="col-lg-6">
                         <div class="row-12 my-3">
                             <div class="col">
                                 <h2>Te resolvemos cualquier duda</h1>
@@ -28,7 +28,7 @@
                                         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nombre">
                                     </div>
                                     <div class="form-group my-3">
-                                        <label for="exampleFormControlInput1">Email address</label>
+                                        <label for="exampleFormControlInput1">Correo electrónico</label>
                                         <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
                                     </div>
                                     <div class="form-group my-3">
@@ -37,12 +37,12 @@
                                     </div>
                                     <div class="form-group mt-3">
                                         <label for="exampleFormControlTextarea1">Tu mensaje</label>
-                                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="9"></textarea>
+                                        <textarea class="form-control" id="exampleFormControlTextarea1"></textarea>
                                     </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-6">
+                    <div class="col-lg-6">
                         <div class="row-12 my-3">
                             <div class="col">
                                 <h2>Encuéntranos en</h2>
