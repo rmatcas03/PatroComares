@@ -23,7 +23,7 @@
                         <div class="row-12 my-3">
                             <div class="col">
                                 <form>
-                                    <div class="form-group mt-2 mb-3">
+                                    <div class="form-group my-3">
                                         <label for="exampleFormControlInput1">Nombre</label>
                                         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nombre">
                                     </div>
