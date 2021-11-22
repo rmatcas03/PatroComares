@@ -16,11 +16,14 @@
       <div class="text-center mt-5">
         <h1>Noticias destacadas</h1>
       </div>
-      <div class="container-fluid row mt-3">
 
-        <div class="card col-lg-4 border-0">
+<div class=" container-fluid text-center"> <!--container que pone los botones de las cartas en el centro-->
+
+      <div class="container-fluid d-flex justify-content-center row mt-3 "> <!--Te pone las tres cartas centradas d-flex justify-content-center-->
+        <div class="card col-lg-4 border-0 polaroid">
           <h2 class="text-center">Fútbol base</h2>
-          <img class="card-img-top" src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
+          <img class="card-img-top " src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -28,9 +31,11 @@
           </div>
         </div>
 
-        <div class="card col-lg-4 border-0">
+        <div class="card col-lg-4 border-0 polaroid">
           <h2 class="text-center">Natación</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\natacionhd.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
+
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -38,9 +43,11 @@
           </div>
         </div>
 
-        <div class="card col-lg-4 border-0">
+        <div class="card col-lg-4 border-0 polaroid">
           <h2 class="text-center">Pádel</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\padel.jpg" alt="Card image" style="width:100%">
+
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -49,11 +56,12 @@
         </div>
       </div>
 
-      <div class="container-fluid row my-5">
+      <div class="container-fluid row my-5 d-flex justify-content-center">
 
-        <div class="card col-lg-4 border-0">
+        <div class="card col-lg-4 border-0 polaroid  ">
           <h2 class="text-center">Defensa personal</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\defensa personalhd.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -62,9 +70,10 @@
         </div>
 
 
-        <div class="card col-lg-4 border-0">
+        <div class="card col-lg-4 border-0 polaroid">
           <h2 class="text-center">Atletismo</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\atletismo01.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -72,16 +81,18 @@
           </div>
         </div>
 
-        <div class="card col-lg-4 border-0">
-         
+        <div class="card col-lg-4 border-0 polaroid">
+          <h2 class="text-center">Tenis</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\tenis.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-          <h1>Tenis</h1>
             <h5 class="card-title">Lucena fc</h5>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
             <a href="noticiasTenis.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
+      </div>
+
       </div>
     </section>
 
