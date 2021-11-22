@@ -14,13 +14,15 @@
 
     <section class="page-section" id="noticias">
       <div class="text-center mt-5">
-        <h1>Noticias</h1>
+        <h1>Formación de nuestra académia</h1>
       </div>
+      <div class=" container-fluid text-center">
       <div class="container-fluid row mt-3">
 
-        <div class="card col-lg-6 border-0">
+        <div class="card col-lg-6 border-0 polaroid">
           <h2 class="text-center">Fútbol base</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
@@ -42,7 +44,7 @@
 
       </div>
 
-
+</div>
     </section>
 
   </main>
