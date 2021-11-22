@@ -1,8 +1,6 @@
 <nav class="navbar navbar-expand-md bg-primary text-uppercase fixed-top" id="mainNav">
 
-
-
-        <a class="navbar-brand m-1" href="index.php"><img class="img-fluid" src="\assets\img\logos\logo.jpg" alt="logo"></a>
+        <!--<a class="navbar-brand m-1" href="index.php"><img class="img-fluid" src="\assets\img\logos\logo.jpg" alt="logo"></a> -->
         <!-- Links -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
             <i class="fas fa-bars" style="font: size 36px;"></i>
