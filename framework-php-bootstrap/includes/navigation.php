@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg bg-primary text-uppercase fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="index.php"><img src="\assets\img\logos\logo.jpg" alt="logo" width="200" height="200"></a>
+            <a class="navbar-brand" href="index.php"><img src="\assets\img\logos\logo.png" alt="logo" width="200" height="200"></a>
             <button class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button"
                 data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive"
                 aria-expanded="false" aria-label="Toggle navigation">
