@@ -1,6 +1,6 @@
 <div class="container">
     <nav class="navbar navbar-expand-lg bg-primary text-uppercase fixed-top" id="mainNav">
-            <a class="navbar-brand" href="index.php"><img src="\assets\img\logos\logo.png"></a>
+            <a class="navbar-brand" href="index.php"><img class="img-fluid p-1 w-50" src="\assets\img\logos\logo.png"></a>
             <button class="navbar-toggler text-uppercase font-weight-bold text-white rounded" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 Menu
                 <i class="fas fa-bars"></i>
