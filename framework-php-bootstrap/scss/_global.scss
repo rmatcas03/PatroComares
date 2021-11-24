@@ -12,9 +12,12 @@ html {
     scroll-padding-top: calc(#{$navbar-height} - 1px);
 }
 
+main{
+    padding-top: $navbar-height;
+}
 // Styling for page sections
 .page-section {
-    padding: $navbar-height 0;
+    //padding: $navbar-height 0;
 
     .page-section-heading {
         font-size: 2.25rem;
