@@ -8,7 +8,7 @@
 
 <body>
 
-    <?php include("includes/navbar.php"); ?>
+    <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Contact Section-->
         <section class="page-section" id="contact">
