@@ -9,7 +9,7 @@
 
 <body>
 
-    <?php include("includes/navbar.php"); ?>
+    <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="portfolio">

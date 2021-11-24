@@ -38,7 +38,7 @@
 
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
+            <p class="card-text">Comienzan las clases de natación en nuestra academia municipal</p>
             <a href="noticiasNatacion.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
@@ -50,7 +50,7 @@
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
+            <p class="card-text">Comienzan las clases de pádel en nuestra academia municipal</p>
             <a href="noticiasPadel.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
@@ -60,11 +60,11 @@
 
         <div class="card col-lg-4 border-0 polaroid  ">
           <h2 class="text-center">Defensa personal</h2>
-          <img class="card-img-top" src="assets\img\imgTrabajo\defensa personalhd.jpg" alt="Card image" style="width:100%">
+          <img class="card-img-top" src="assets\img\imgTrabajo\defensapersonalhd.jpg" alt="Card image" style="width:100%">
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
+            <p class="card-text">Comienzan las clases de defensa personal en nuestra academia municipal</p>
             <a href="noticiasdefensa.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
@@ -76,7 +76,7 @@
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
+            <p class="card-text">Comienzan las clases de atletismo en nuestra academia municipal</p>
             <a href="noticiasAtletismo.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
@@ -87,7 +87,7 @@
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h5 class="card-title">Lucena fc</h5>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
+            <p class="card-text">Comienzan las clases de tenis en nuestra academia municipal</p>
             <a href="noticiasTenis.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>

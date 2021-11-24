@@ -13,31 +13,27 @@
   <main>
 
     <section class="page-section" id="noticias">
-      <div class="text-center mt-5">
-        <h1>Noticias</h1>
+    <div class="text-center mt-5">
+        <h1>Formación de nuestra académia</h1>
       </div>
+      <div class=" container-fluid text-center">
       <div class="container-fluid row mt-3">
 
-        <div class="card col-lg-6 border-0">
-          <h2 class="text-center">Fútbol base</h2>
-          <img class="card-img-top" src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
+        <div class="card col-lg-6 border-0 polaroid">
+          <h2 class="text-center">Defensa personal</h2>
+          <img class="card-img-top" src="assets\img\imgTrabajo\defensapersonalhd.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-            <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de fútbol en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
+            <h4 class="card-title">Clases de defensa personal</h4>
+            <p class="card-text">Comienzan las clases de defensa personal con el ilustre profesor yaki chan a las 10:00 A.M en nuestro polideportivo municipal </p>
             <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
           </div>
         </div>
-        <div class="container col-lg-6 my-5">
+        <div class="container col-lg-4 my-5">
 
-          Se conoce como cantera, fuerzas básicas o divisiones juveniles a todos los equipos del fútbol base y
-          filiales semiprofesionales o de divisiones inferiores de los equipos profesionales. En algunos países están obligados por
-          reglamentos nacionales a mantener estos equipos. Para un club, disponer de una estructura de fútbol base, con una misma
-          filosofía de trabajo en todas sus categorías, desde infantiles a juveniles, puede suponer (además de un ahorro en cuanto a
-          fichajes de jugadores) que los jugadores hayan jugado desde pequeños de la misma manera, por lo que de una forma natural,
-          se pueden encontrar jugando en el primer equipo y adaptarse a conceptos y exigencias del juego desde el primer día.
-          Aunque en los equipos filiales no suela ser lo habitual, ya que pertenecen a categorías enfocadas a la formación,​
-          puede haber jugadores de mayor categoría, siempre y cuando posea ficha con dicho club inferior. En la Segunda División B por ejemplo,
-          primera categoría no-profesional del fútbol español, un equipo no podrá poseer más de 16 jugadores mayores de dicha edad
+        La defensa personal es un conjunto de habilidades técnico-tácticas encaminadas a impedir o repeler1​ una agresión, 
+        realizadas por uno mismo y para sí mismo.También recibe otras denominaciones como autoprotección o seguridad personal, 
+        no obstante estos conceptos tienen un ámbito mayor, donde destaca fundamentalmente el componente preventivo
         </div>
 
       </div>
