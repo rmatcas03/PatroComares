@@ -18,12 +18,18 @@
       </div>
       <div class="container-fluid row mt-3">
 
-        <div class="card col-lg-6 border-0">
+      <div class="text-center mt-5">
+      </div>
+      <div class=" container-fluid text-center">
+      <div class="container-fluid row mt-3">
+
+        <div class="card col-lg-6 border-0 polaroid">
           <h2 class="text-center">Pádel</h2>
           <img class="card-img-top" src="assets\img\imgTrabajo\padel.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
             <h4 class="card-title">Padel center</h4>
-            <p class="card-text">Torneo de pádel en honor al antiguo alcalde de la localidad os esperamos</p>
+            <p class="card-text">Torneo de pádel en honor al antiguo alcalde de la localidad os esperamos </p>
             <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
           </div>
         </div>
