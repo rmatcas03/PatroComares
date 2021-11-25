@@ -22,13 +22,15 @@
 
                 <div class="col-lg-6">
                     <div>
-                        <div>Futbol base</div>
+                        <button type="button" class="btn btn-primary btn-lg">Futbol base</button>
                     </div>
                     <div>
-                        <div>Tenis</div>
+                        <button type="button" class="btn btn-primary btn-lg">Tenis</button>
+                        
                     </div>
                     <div>
-                        <div>Atletismo</div>
+                        <button type="button" class="btn btn-primary btn-lg">Atletismo</button>
+                        
                     </div>   
                 </div>
 
