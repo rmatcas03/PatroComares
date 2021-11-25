@@ -14,21 +14,27 @@
 
     <section class="page-section" id="noticias">
     <div class="text-center mt-5">
+        <h1>Formación de nuestra académia</h1>
       </div>
       <div class=" container-fluid text-center">
-      <div class="container-fluid row mt-3">
-
-        <div class="card col-lg-6 border-0 polaroid">
-          <h2 class="text-center">Natación</h2>
-          <img class="card-img-top" src="assets\img\imgTrabajo\natacionhd.jpg" alt="Card image" style="width:100%">
-          <span class="textoPolaroid">Categorías inferiores</span>
-          <div class="card-body">
-            <h4 class="card-title">Piscina Municipal</h4>
-            <p class="card-text">Clases de natación</p>
-            <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
+        <div class="row mt-3">
+          <div class="col-lg-8">
+            <div class="card  border-0 polaroid">
+              <h2 class="text-center">Natación</h2>
+              <img class="card-img-top" src="assets\img\imgTrabajo\natacionhd.jpg" alt="Card image" style="width:100%">
+              <span class="textoPolaroid">Categorías inferiores</span>
+              <div class="card-body">
+                <h4 class="card-title">Piscina Municipal</h4>
+                <p class="card-text">Clases de natación </p>
+                <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="container col-lg-6 my-5">
+          <div class=" col-lg-4 my-5">
+
+
+
+           
 
           Los niveles 1 – 1.5 : serían Iniciación.<br>
           Los niveles 2 – 2.5 : serían Intermedio.<br>
@@ -36,10 +42,11 @@
           Los niveles 4 – 4.5 : serían Avanzado.<br>
           Los niveles 5 – 5.5 : serían Competición / Monitores.<br>
           Los niveles 6 – 7 : serían Profesional.<br>
+
+
+          </div>
         </div>
-
       </div>
-
 
     </section>
 

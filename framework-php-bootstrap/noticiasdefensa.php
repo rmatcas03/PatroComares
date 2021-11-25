@@ -32,9 +32,14 @@
           </div>
           <div class=" col-lg-4 my-5">
 
+
+
+
             La defensa personal es un conjunto de habilidades técnico-tácticas encaminadas a impedir o repeler1​ una agresión,
             realizadas por uno mismo y para sí mismo.También recibe otras denominaciones como autoprotección o seguridad personal,
             no obstante estos conceptos tienen un ámbito mayor, donde destaca fundamentalmente el componente preventivo
+
+
           </div>
         </div>
       </div>

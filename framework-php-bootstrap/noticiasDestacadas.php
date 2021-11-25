@@ -37,8 +37,8 @@
           <span class="textoPolaroid">Categorías inferiores</span>
 
           <div class="card-body">
-            <h4 class="card-title">Lucena fc</h4>
-            <p class="card-text">Comienzan las clases de natación en nuestra academia municipal</p>
+            <h4 class="card-title">Piscina municipal</h4>
+            <p class="card-text">Clases de natación en nuestra piscina municipal</p>
             <a href="noticiasNatacion.php" class="btn btn-secondary">Más información</a>
           </div>
         </div>
@@ -49,7 +49,7 @@
           <img class="card-img-top" src="assets\img\imgTrabajo\defensapersonalhd.jpg" alt="Card image" style="width:100%">
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-            <h4 class="card-title">Lucena fc</h4>
+            <h4 class="card-title">Karate</h4>
             <p class="card-text">Comienzan las clases de defensa personal en nuestra academia municipal</p>
             <a href="noticiasdefensa.php" class="btn btn-secondary">Más información</a>
           </div>
@@ -60,7 +60,7 @@
 
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-            <h4 class="card-title">Lucena fc</h4>
+            <h4 class="card-title">Pádel center</h4>
             <p class="card-text">Comienzan las clases de pádel en nuestra academia municipal</p>
             <a href="noticiasPadel.php" class="btn btn-secondary">Más información</a>
           </div>
@@ -75,7 +75,7 @@
           <img class="card-img-top" src="assets\img\imgTrabajo\atletismo01.jpg" alt="Card image" style="width:100%">
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-            <h4 class="card-title">Lucena fc</h4>
+            <h4 class="card-title">Club de atletismo Amo allá!</h4>
             <p class="card-text">Comienzan las clases de atletismo en nuestra academia municipal</p>
             <a href="noticiasAtletismo.php" class="btn btn-secondary">Más información</a>
           </div>
@@ -86,7 +86,7 @@
           <img class="card-img-top" src="assets\img\imgTrabajo\tenis.jpg" alt="Card image" style="width:100%">
           <span class="textoPolaroid">Categorías inferiores</span>
           <div class="card-body">
-            <h5 class="card-title">Lucena fc</h5>
+            <h5 class="card-title">Rafael Nadal</h5>
             <p class="card-text">Comienzan las clases de tenis en nuestra academia municipal</p>
             <a href="noticiasTenis.php" class="btn btn-secondary">Más información</a>
           </div>
