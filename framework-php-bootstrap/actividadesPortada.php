@@ -30,7 +30,7 @@
                     <div>
                         <div>Atletismo</div>
                     </div>   
-                </diw>
+                </div>
 
                 <div class="col-lg-6">
                 <div>
