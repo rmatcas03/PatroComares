@@ -19,6 +19,7 @@
         <div class="page-section" id="actividades">
          <div class="container-fluid text-center">
              <div class="d-flex justify-content-between row my-2">
+
                 <div class="col-lg-6">
                     <div>
                         <div>Futbol base</div>
@@ -28,18 +29,12 @@
                     </div>
                     <div>
                         <div>Atletismo</div>
-                    </div>
-                    <div>
-                        <div>Pilates</div>
-                    </div>
+                    </div>   
                 </diw>
 
                 <div class="col-lg-6">
                 <div>
                         <div>Padel</div>
-                    </div>
-                    <div>
-                        <div>Baloncesto</div>
                     </div>
                     <div>
                         <div>Natacion</div>
