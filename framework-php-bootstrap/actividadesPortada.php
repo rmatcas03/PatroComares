@@ -10,13 +10,13 @@
 
 <main>
 
-<section class="page-section" id="actividades">
+<section class="page-section" id="noticias">
         
         <div class="text-center mt-5">
             <h1>Actividades</h1>
         </div>
         
-        <div class="page-section" id="actividades">
+        <div class="page-section" id="noticias">
          <div class="container-fluid text-center">
              <div class="d-flex justify-content-between row my-2">
                 <div class="col-lg-6">
@@ -53,7 +53,7 @@
          </div>
         </div>
     </section>
-    
+
 </main>
 
 <?php include("includes/footer.php");?>
