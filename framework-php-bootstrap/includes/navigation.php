@@ -14,9 +14,9 @@
                             Instalaciones
                         </a>
                         <div class="dropdown-menu bg-primary text-uppercase border-0 " aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item text-white" href="#">Pista de fútbol</a>
-                            <a class="dropdown-item text-white" href="#">Pista de baloncesto</a>
-                            <a class="dropdown-item text-white" href="#">Pista de pádel</a>
+                            <a class="dropdown-item text-white" href="instalacionesFutbol.php">Pista de fútbol</a>
+                            <a class="dropdown-item text-white" href="instalacionesBaloncesto.php">Pista de baloncesto</a>
+                            <a class="dropdown-item text-white" href="instalacionesPadel.php">Pista de pádel</a>
                         </div>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Eventos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="contact.php">Eventos</a></li>
                     <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="noticiasDestacadas.php">Noticias</a></li>
