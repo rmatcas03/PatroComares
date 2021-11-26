@@ -13,7 +13,7 @@
                 </p>
             </div>
             <div class="col-lg-6 mb-5 mb-lg-0">
-                <img src="\assets\img\logos\lucena.png"><br>
+                <img src="\assets\img\logos\lucena.png" width="140" height="236"><br>
             </div>
            
             <div class="col-lg-3 mb-5 mb-lg-0">
