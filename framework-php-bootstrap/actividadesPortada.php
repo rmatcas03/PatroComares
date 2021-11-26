@@ -9,7 +9,7 @@
 <?php include("includes/navigation.php");?>
 
 <main>
-
+<div class="container-fluid text-center">
 <section class="page-section" id="actividades">
         
         <div class="text-center mt-5">
@@ -17,40 +17,49 @@
         </div>
         
         <div class="page-section" id="actividades">
-         <div class="container-fluid text-center">
-             <div class="d-flex justify-content-between row my-2">
+
+             <div class="row ">
 
                 <div class="col-lg-6">
-                    <div>
-                        <button type="button" class="btn btn-primary btn-lg">Futbol base</button>
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid p-1" src="assets\img\imgActividades\futbol.jpg" alt="Card image">
                     </div>
-                    <div>
-                        <button type="button" class="btn btn-primary btn-lg">Tenis</button>
-                        
+                </div>  
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid" src="assets\img\imgActividades\tenis.jpg" alt="Card image">
                     </div>
-                    <div>
-                        <button type="button" class="btn btn-primary btn-lg">Atletismo</button>
-                        
-                    </div>   
+                </div>  
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid p-1" src="assets\img\imgActividades\atletismo.jpg" alt="Card image">
+                    </div>
+                </div>  
                 </div>
 
                 <div class="col-lg-6">
-                <div>
-                        <div>Padel</div>
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid" src="assets\img\imgActividades\padel.jpg" alt="Card image">
                     </div>
-                    <div>
-                        <div>Natacion</div>
+                </div>  
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid p-1" src="assets\img\imgActividades\natacion.jpg" alt="Card image">
                     </div>
-                    <div>
-                        <div>Defensa Personal</div>
+                </div>  
+                <div class="row">
+                    <div class="col">
+                    <img class="img-fluid p-1" src="assets\img\imgActividades\defensa.jpg" alt="Card image">
                     </div>
-                </diw>
+                </div>  
                 </div>
-             </div>
+             
          </div>
         </div>
     </section>
-
+    </div>
 </main>
 
 <?php include("includes/footer.php");?>
