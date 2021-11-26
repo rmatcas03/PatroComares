@@ -20,6 +20,18 @@ switch ($_SERVER["SCRIPT_NAME"]) {
 		$CURRENT_PAGE = "noticias";
 		$PAGE_TITLE = "Noticias Destacadas";
 		break;
+		case "/instalacionesFutbol.php":
+			$CURRENT_PAGE = "instalaciones";
+			$PAGE_TITLE = "Instalaciones Fútbol";
+			break;
+		case "/instalacionesBaloncesto.php":
+			$CURRENT_PAGE = "instalaciones";
+			$PAGE_TITLE = "Instalaciones Baloncesto";
+			break;
+	case "/instalacionesPadel.php":
+		$CURRENT_PAGE = "instalaciones";
+		$PAGE_TITLE = "Instalaciones Pádel";
+		break;			
 	case "/contact.php":
 		$CURRENT_PAGE = "Contact";
 		$PAGE_TITLE = "Contact Us";
