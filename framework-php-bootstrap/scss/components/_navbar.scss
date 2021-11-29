@@ -42,7 +42,7 @@
     }
 }
 
-@include media-breakpoint-up(md) {
+@include media-breakpoint-up(sm) {
     #mainNav {
         padding-top: 0rem;
         padding-bottom: 0rem;
@@ -84,4 +84,10 @@
 
 .navbar-brand {
     font-size: 1.5em;
+    width: 20rem;
+    padding-right: 10px;
+}
+
+.navbar-collapse {
+    background: $primary;
 }

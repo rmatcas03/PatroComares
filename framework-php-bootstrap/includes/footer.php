@@ -5,7 +5,7 @@
                 <h4 class="text-uppercase my-3">Localización </h4>
                 <p>
                     Avenida Juego de pelota (Instalaciones Deportivas Municipales Lucena), s/n. 23001.<br>
-                    Tel: 953 239 126<br><br>
+                    Tel: 953 239 126<br>
                     Horario de atención al público: de Lunes a Jueves de 9:00 a 14:00 horas.<br>
                     Viernes de 9:00 a 13:00 horas.<br>
                     Verano, de Lunes a Viernes 9:00 a 13:00 horas.<br>
