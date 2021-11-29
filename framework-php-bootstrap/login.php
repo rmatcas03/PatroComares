@@ -19,13 +19,13 @@
                             <div class="col">
                           
                                 <div class="container-fluid">
-                                <h2 class="mx-5">Mi perfil</h1>
+                                <h2 class="mx-5">Mi perfil</h1><!--pone centrado el título de perfil-->
 
                                         <div class="card border-0" style="width:250px">
                                             <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Card image">
                                             <div class="card-body">
 
-                                            <div class="container-fluid text-center">
+                                            <div class="container-fluid text-center"> <!--pone centrado el boton de perfil-->
                                                 <a href="#" class="btn btn-secondary">Cambiar</a>
                                                 </div>
                                             </div>
