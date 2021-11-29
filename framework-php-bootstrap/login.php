@@ -17,7 +17,7 @@
                     <div class="col-lg-6">
                         <div class="row-12 my-3">
                             <div class="col">
-                            <h2 class="mx-5">Mi perfil</h1>
+                            <h2 class="mx-5 py-2">Mi perfil</h1>
                                 <div class="container-fluid text-center">
                                    
 
