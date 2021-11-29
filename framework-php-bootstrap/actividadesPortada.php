@@ -23,7 +23,7 @@
                 <div class="col-lg-6">
                 <div class="row">
                     <div class="col">
-                    <a href=""><img class="img-fluid p-1" src="assets\img\imgActividades\futbol.jpg" alt="Card image"></a>
+                    <a href="actividadesFutbol.php"><img class="img-fluid p-1" src="assets\img\imgActividades\futbol.jpg" alt="Card image"></a>
                     </div>
                 </div>  
                 <div class="row">
