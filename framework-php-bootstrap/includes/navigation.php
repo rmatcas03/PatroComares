@@ -26,7 +26,7 @@
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="noticiasDestacadas.php">Noticias</a></li>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Contacto") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="contact.php">Contacto</a></li>
                 <li class="nav-item mx-0 mx-lg-1">
-                    <a class="btn btn-secondary" role="button" href="login.php">Login</a>
+                    <a class="btn btn-secondary mb-3 mb-sm-0" role="button" href="login.php">Login</a>
                 </li>
             </ul>
         </div>

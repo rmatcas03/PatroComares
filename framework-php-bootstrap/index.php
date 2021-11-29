@@ -28,13 +28,13 @@
                             <!-- The slideshow/carousel -->
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="https://lorempixel.com/people/800/300/" alt="Los Angeles" class="d-block w-100">
+                                    <img src="assets\img\imgTrabajo\natacionhd.jpg" alt="Los Angeles" class="d-block w-100">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://lorempixel.com/people/800/300/" alt="Chicago" class="d-block w-100">
+                                    <img src="assets\img\imgTrabajo\padel.jpg" alt="Chicago" class="d-block w-100">
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="https://lorempixel.com/sports/800/300/" alt="New York" class="d-block w-100">
+                                    <img src="assets\img\imgTrabajo\fff.jpg" alt="New York" class="d-block w-100">
                                 </div>
                             </div>
 
@@ -52,19 +52,19 @@
                 <div class="row mb-2">
                     <div class="col-lg-4">
                         <div class="card">
-                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
+                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
                             <div class="card-text text-center">Noticia 1</div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="card">
-                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
+                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
                             <div class="card-text text-center">Noticia 2</div>
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="card">
-                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="400px"></div>
+                            <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
                             <div class="card-text text-center">Noticia 3</div>
                         </div>
                     </div>
