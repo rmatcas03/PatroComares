@@ -15,18 +15,19 @@
             <div class="container-fluid">
                 <div class="d-flex justify-content-between row my-2">
                     <div class="col-lg-6">
-                        <div class="row-12 my-3">
+                        <div class="row-12">
                             <div class="col">
-                            <h2 class="mx-5 py-2">Mi perfil</h1>
-                                <div class="container-fluid text-center">
-                                   
+                          
+                                <div class="container-fluid">
+                                <h2 class="mx-5">Mi perfil</h1>
 
                                         <div class="card border-0" style="width:250px">
                                             <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Card image">
                                             <div class="card-body">
 
-
+                                            <div class="container-fluid text-center">
                                                 <a href="#" class="btn btn-secondary">Cambiar</a>
+                                                </div>
                                             </div>
                                         </div>
                                 </div>
