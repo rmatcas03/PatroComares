@@ -55,7 +55,7 @@
                         </div>
                     </div>
                 </div>
-                <button type="button" class="btn btn-secondary">Enviar</button>
+                <button type="button" class="btn btn-secondary mb-2">Enviar</button>
             </div>
         </section>
     </main>
