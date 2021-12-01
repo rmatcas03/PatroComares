@@ -31,3 +31,17 @@ main{
         }
     }
 }
+
+.polaroid {
+    width: fit-content;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 10px grey;
+    transform: rotate(5deg);
+    margin: 20px;
+}
+
+.textoPolaroid {
+    display: block;
+    text-align: center;
+}
