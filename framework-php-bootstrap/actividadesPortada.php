@@ -12,11 +12,11 @@
 <div class="container-fluid text-center">
 <section class="page-section" id="actividades">
         
-        <div class="text-center mt-5">
+        <div class="text-center mt-3">
             <h1>Actividades</h1>
         </div>
         
-        <div class="page-section" id="actividades">
+        <div class="page-section mb-5" id="actividades">
 
              <div class="row ">
 
