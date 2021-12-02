@@ -23,7 +23,7 @@
 
                             <div class="container-fluid text-center">
                                 <!--pone centrado el boton de perfil-->
-                                <a href="#" class="btn btn-secondary">Cambiar</a>
+                                <a href="#" class="btn btn-secondary">Confirmar</a>
                             </div>
                         </div>
                     </div>
