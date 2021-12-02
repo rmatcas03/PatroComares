@@ -13,14 +13,14 @@
   <main>
 
     <section class="page-section" id="noticias">
-      <div class="text-center mt-5">
+      <div class="text-center mt-3">
         <h1>Proximas Actividades Futbolisticas</h1>
       </div>
       
       <div>
 
         
-        <div class="card-group">
+        <div class="card-group mb-5">
             <div class="card">
               
               <div class="card-body">

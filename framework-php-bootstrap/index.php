@@ -26,13 +26,13 @@
                         <!-- The slideshow/carousel -->
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="assets\img\carroussel\descarga.jpg" alt="Los Angeles" class="d-block w-100">
+                                <img src="assets\img\imgTrabajo\natacionhd.jpg" alt="Los Angeles" class="d-block w-100">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets\img\carroussel\descarga1.jpg" alt="Chicago" class="d-block w-100">
+                                <img src="assets\img\imgTrabajo\padel.jpg" alt="Chicago" class="d-block w-100">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets\img\carroussel\images.jpg" alt="New York" class="d-block w-100">
+                                <img src="assets\img\imgTrabajo\fff.jpg" alt="New York" class="d-block w-100">
                             </div>
                         </div>
 
