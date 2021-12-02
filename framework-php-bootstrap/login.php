@@ -11,17 +11,15 @@
     <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Contact Section-->
-        <section class="page-section" id="contact">
-            <div class="container-fluid">
-                <div class="d-flex justify-content-between row my-2">
-                    <div class="col-lg-6">
-                        <div class="row-12">
-                            <div class="col">
-                          
-                                <div class="container-fluid">
-                                <h2 class="mx-5">Mi perfil</h1><!--pone centrado el título de perfil-->
+        <div class="container-fluid mb-5">
 
-                                        <div class="card border-0" style="width:250px">
+            <div class="d-flex justify-content-between row my-3 ">
+                
+            
+                
+                <div class="col-6">
+                <div class="card border-0 mx-5" style="width:250px">
+                <h2 class="mx-5">Mi perfil</h2>
                                             <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Card image">
                                             <div class="card-body">
 
@@ -30,15 +28,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="row-12 my-3 ">
-                            <div class="col  d-flex justify-content-end">
-                                <!-- d-flex justify-content-end te pone los componentes a la derecha-->
-                                <form>
+                </div>
+                <div class="col-6 d-flex flex-column text-start"> 
+                <form>
                                     <div class="form-group my-3">
                                         <label for="exampleFormControlInput1">Nombre</label>
                                         <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nombre">
@@ -69,14 +61,11 @@
 
                                         <button type="button" class="btn btn-secondary">Cambiar</button>
                                     </div>
-
-                            </div>
-                        </div>
-
-                    </div>
-
+                </form>
                 </div>
-        </section>
+
+            </div>
+        </div>
     </main>
     <?php include("includes/footer.php"); ?>
 
