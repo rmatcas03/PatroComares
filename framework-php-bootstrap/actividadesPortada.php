@@ -14,7 +14,8 @@
         
         <div class="text-center mt-3">
             <h1>Actividades</h1>
-        </div>
+        </div> 
+        
         
         <div class="page-section mb-5" id="actividades">
 
