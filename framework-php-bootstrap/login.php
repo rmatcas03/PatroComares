@@ -57,8 +57,10 @@
                         <div class="form-group my-3 d-flex flex-row align-items-center ">
                             <label for="exampleFormControlInput1">Password</label>
                             <input type="password" class="password flex-grow-1 mx-1" id="exampleFormControlInput1" placeholder="Password">
-
-                            <button type="button" class="btn btn-secondary">Confirmar</button>
+                        </div>  
+                        
+                        <div class="align-items-center text-center ">
+                        <button type="button" class="btn btn-secondary">Confirmar</button>
                         </div>
                     </form>
                 </div>
