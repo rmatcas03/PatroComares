@@ -13,14 +13,14 @@
   <main>
 
     <section class="page-section" id="noticias">
-      <div class="text-center mt-3">
+      <div class="text-center mt-5">
         <h1> Natacion en PatroComares</h1>
       </div>
       
       <div>
 
         
-        <div class="card-group mb-5">
+        <div class="card-group">
             <div class="card">
               
               <div class="card-body">
@@ -45,6 +45,9 @@
                                     Some quick example text to build on the card title and make up the bulk of the card's content.
 
                                     Some quick example text to build on the card title and make up the bulk of the card's content.
+
+                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+
                                     
                                     </p>
                 
