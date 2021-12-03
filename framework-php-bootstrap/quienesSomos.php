@@ -36,7 +36,7 @@
                             <p>Telefono:</p>
                         </div>
                     </div>  
-                    <div class="row border border-5 border-info m-1 mb-5">
+                    <div class="row border border-5 border-info m-1">
                         <div class="col">
                         <img class="img-fluid p-1" src="assets\img\imgActividades\emoji2.jpg" alt="Card image">
                         </div>
