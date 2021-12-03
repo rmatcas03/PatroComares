@@ -13,7 +13,7 @@
   <main>
 
     <section class="page-section" id="noticias">
-    <div class="text-center mt-5">
+      <div class="text-center mt-5">
         <h1>Formación de nuestra académia</h1>
       </div>
       <div class=" container-fluid text-center">
@@ -24,8 +24,8 @@
               <img class="card-img-top" src="assets\img\imgTrabajo\natacionhd.jpg" alt="Card image" style="width:100%">
               <span class="textoPolaroid">Categorías inferiores</span>
               <div class="card-body">
-                <h4 class="card-title">Piscina Municipal</h4>
-                <p class="card-text">Clases de natación </p>
+                <h4 class="card-title">Clases de natación</h4>
+                <p class="card-text">Comienzan las clases de natación en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
                 <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
               </div>
             </div>
@@ -34,20 +34,19 @@
 
 
 
-           
-
-          Los niveles 1 – 1.5 : serían Iniciación.<br>
-          Los niveles 2 – 2.5 : serían Intermedio.<br>
-          Los niveles 3 – 3.5 : serían Intermedio Alto.<br>
-          Los niveles 4 – 4.5 : serían Avanzado.<br>
-          Los niveles 5 – 5.5 : serían Competición / Monitores.<br>
-          Los niveles 6 – 7 : serían Profesional.<br>
-
+            Se conoce como cantera, fuerzas básicas o divisiones juveniles a todos los equipos del fútbol base y
+            filiales semiprofesionales o de divisiones inferiores de los equipos profesionales. En algunos países están obligados por
+            reglamentos nacionales a mantener estos equipos. Para un club, disponer de una estructura de fútbol base, con una misma
+            filosofía de trabajo en todas sus categorías, desde infantiles a juveniles, puede suponer (además de un ahorro en cuanto a
+            fichajes de jugadores) que los jugadores hayan jugado desde pequeños de la misma manera, por lo que de una forma natural,
+            se pueden encontrar jugando en el primer equipo y adaptarse a conceptos y exigencias del juego desde el primer día.
+            Aunque en los equipos filiales no suela ser lo habitual, ya que pertenecen a categorías enfocadas a la formación,​
+            puede haber jugadores de mayor categoría, siempre y cuando posea ficha con dicho club inferior. En la Segunda División B por ejemplo,
+            primera categoría no-profesional del fútbol español, un equipo no podrá poseer más de 16 jugadores mayores de dicha edad
 
           </div>
         </div>
       </div>
-
     </section>
 
   </main>
