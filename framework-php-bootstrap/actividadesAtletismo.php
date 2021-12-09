@@ -24,7 +24,7 @@
             <div class="card">
               
               <div class="card-body">
-                <p class="card-text"> Atletismo femenino </p>
+                <p class="card-text text-center "> Atletismo femenino </p>
                 <img class="card-img-top" src="assets\img\imgActividades\atletismo1.jpg" alt="Card image cap">
                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
 
