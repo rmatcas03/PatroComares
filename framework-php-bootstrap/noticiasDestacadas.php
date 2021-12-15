@@ -21,9 +21,9 @@
 
       <div class="container-fluid d-flex justify-content-center row mt-3 "> <!--Te pone las tres cartas centradas d-flex justify-content-center-->
         <div class="card col-lg-6 border-0 polaroid">
-          <h2 class="text-center">Fútbol base</h2>
-          <img class="card-img-top " src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
-          <span class="textoPolaroid">Categorías inferiores</span>
+          <h2 class="text-center">Fútbol</h2>
+          <img class="card-img-top " src="assets\img\imgTrabajo\futbol.jpg" alt="Card image" style="width:100%">
+          <span class="textoPolaroid">Categorías inferiores desde benjamines a seniors</span>
           <div class="card-body">
             <h4 class="card-title">Lucena fc</h4>
             <p class="card-text">Comienzan las clases de fútbol en nuestra academia municipal</p>
@@ -33,7 +33,7 @@
 
         <div class="card col-lg-6 border-0 polaroid">
           <h2 class="text-center">Natación</h2>
-          <img class="card-img-top" src="assets\img\imgTrabajo\natacionhd.jpg" alt="Card image" style="width:100%">
+          <img class="card-img-top" src="assets\img\imgTrabajo\natacion1.jpg" alt="Card image" style="width:100%">
           <span class="textoPolaroid">Categorías inferiores</span>
 
           <div class="card-body">
