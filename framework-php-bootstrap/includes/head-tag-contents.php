@@ -14,6 +14,10 @@
 <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
 <link href="node_modules\bootstrap-icons\font\bootstrap-icons.css" rel="stylesheet" />
 <!-- Google fonts-->
+
+<link href="https://fonts.google.com/specimen/Roboto" rel="stylesheet" type="text/css"/>
+<link href="(https://fonts.google.com/specimen/Noticia+Text?query=Noticia+text#about" rel="stylesheet" type="text/css"/>
+
 <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
 <link href="
 " rel="stylesheet"
