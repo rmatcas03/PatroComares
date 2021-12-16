@@ -12,10 +12,15 @@
 
   <main>
 
-    <section class="page-section" id="noticias">
-      <div class="text-center mt-5">
-        <h1>Formación de nuestra académia</h1>
-      </div>
+  <section class="page-section" id="noticias">
+     
+     <div class="text-center mt-5 row">
+       <div class="col d-flex justify-content-start mx-5">
+         <a href="noticiasDestacadas.php" class="btn btn-secondary mx-5 py-2" style="height: 40px;"><<<</a>
+         <h1>Formación de nuestra académia</h1>
+       </div>
+
+     </div>
       <div class=" container-fluid text-center">
         <div class="row mt-3">
           <div class="col-lg-8">
@@ -26,7 +31,7 @@
               <div class="card-body">
                 <h4 class="card-title">Clases de defensa personal</h4>
                 <p class="card-text">Comienzan las clases de defensa personal con el ilustre profesor yaki chan a las 10:00 A.M en nuestro polideportivo municipal </p>
-                <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
+          
               </div>
             </div>
           </div>

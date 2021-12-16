@@ -11,10 +11,14 @@
   <?php include("includes/navigation.php"); ?>
 
   <main>
+  <section class="page-section" id="noticias">
+     
+      <div class="text-center mt-5 row">
+        <div class="col d-flex justify-content-start mx-5">
+          <a href="noticiasDestacadas.php" class="btn btn-secondary mx-5 py-2" style="height: 40px;"><<<</a>
+          <h1>Formación de nuestra académia</h1>
+        </div>
 
-    <section class="page-section" id="noticias">
-      <div class="text-center mt-5">
-        <h1>Formación de nuestra académia</h1>
       </div>
       <div class=" container-fluid text-center">
         <div class="row mt-3">
@@ -26,7 +30,7 @@
               <div class="card-body">
                 <h4 class="card-title">Lucena fc</h4>
                 <p class="card-text">Comienzan las clases de fútbol en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
-                <a href="noticiasDestacadas.php" class="btn btn-secondary">Volver</a>
+              
               </div>
             </div>
           </div>
