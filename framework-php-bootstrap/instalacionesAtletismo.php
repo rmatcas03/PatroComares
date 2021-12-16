@@ -4,6 +4,9 @@
 
 <head>
     <?php include("includes/head-tag-contents.php"); ?>
+    <style>
+        
+    </style>
 </head>
 
 <body>
