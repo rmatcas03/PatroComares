@@ -12,16 +12,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
+
+<!--Esto creo que no se usa, ¿lo quitamos?-->
 <link href="node_modules\bootstrap-icons\font\bootstrap-icons.css" rel="stylesheet" />
-<!-- Google fonts-->
 
-<link href="https://fonts.google.com/specimen/Roboto" rel="stylesheet" type="text/css"/>
-<link href="(https://fonts.google.com/specimen/Noticia+Text?query=Noticia+text#about" rel="stylesheet" type="text/css"/>
-
-<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-<link href="
-" rel="stylesheet"
-	type="text/css" />
 <!-- Core theme CSS (includes Bootstrap)-->
 <link href="css/styles.css" rel="stylesheet" />
 
