@@ -29,7 +29,7 @@
                 </div>  
                 <div class="row">
                     <div class="col">
-                    <a href="actividadesTenis.php"><img class="img-fluid" src="assets\img\imgActividades\tenis.jpg" alt="Card image"></a>
+                    <a href="actividadesTenis.php"><img class="img-fluid p-1" src="assets\img\imgActividades\tenis.jpg" alt="Card image"></a>
                     </div>
                 </div>  
                 <div class="row">
@@ -42,7 +42,7 @@
                 <div class="col-lg-6">
                 <div class="row">
                     <div class="col">
-                    <a href="actividadesPadel.php"><img class="img-fluid" src="assets\img\imgActividades\padel.jpg" alt="Card image"></a>
+                    <a href="actividadesPadel.php"><img class="img-fluid p-1" src="assets\img\imgActividades\padel.jpg" alt="Card image"></a>
                     </div>
                 </div>  
                 <div class="row">
