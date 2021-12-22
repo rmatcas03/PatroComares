@@ -7988,7 +7988,7 @@ main {
   padding: 5px;
   opacity: 0;
   transition: opacity .3s;
-  background-color: greenyellow; }
+  background-color: #012464; }
 
 #video-container:hover #video-controls {
   opacity: .9; }
@@ -8004,11 +8004,11 @@ button:hover {
   cursor: pointer; }
 
 #seek-bar {
-  width: 360px;
-  background-color: red; }
+  width: 360px; }
 
 #volume-bar {
-  width: 60px; }
+  width: 60px;
+  color: #FFFFFF; }
 
 .masthead {
   padding-top: calc(1rem + 54px);

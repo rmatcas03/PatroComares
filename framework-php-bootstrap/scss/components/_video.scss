@@ -12,7 +12,7 @@
 	padding: 5px;
 	opacity: 0;
 	transition: opacity .3s;
-	background-color: greenyellow;  
+	background-color:$primary;  
 }
 
 #video-container:hover #video-controls {
@@ -33,9 +33,10 @@ button:hover {
 
 #seek-bar {
 	width: 360px;
-    background-color: red;	
+
 }
 
 #volume-bar {
 	width: 60px;
+	color: $tercero;
 }

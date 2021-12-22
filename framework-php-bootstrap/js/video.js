@@ -22,13 +22,13 @@ window.onload = function() {
 			video.play();
 
 			// Update the button text to 'Pause'
-			playButton.innerHTML = "Pause";
+			playButton.innerHTML = '<i class="fas fa-pause"></i>';
 		} else {
 			// Pause the video
 			video.pause();
 
 			// Update the button text to 'Play'
-			playButton.innerHTML = "Play";
+			playButton.innerHTML = '<i class="fas fa-play"></i>';
 		}
 	});
 
@@ -40,13 +40,13 @@ window.onload = function() {
 			video.muted = true;
 
 			// Update the button text
-			muteButton.innerHTML = "Unmute";
+			muteButton.innerHTML = '<i class="fas fa-volume-up"></i>';
 		} else {
 			// Unmute the video
 			video.muted = false;
 
 			// Update the button text
-			muteButton.innerHTML = "Mute";
+			muteButton.innerHTML = '<i class="fas fa-volume-mute"></i>';
 		}
 	});
 
