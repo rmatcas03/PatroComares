@@ -24,12 +24,10 @@
         <div class="row mt-3">
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
-              <h2 class="text-center">Fútbol base</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\fff.jpg" alt="Card image" style="width:100%">
-              <span class="textoPolaroid">Categorías inferiores</span>
+              <h2 class="text-center">Fútbol</h2>
+              <img class="card-img-top" src="assets\img\imgTrabajo\futbol12.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Lucena fc</h4>
-                <p class="card-text">Comienzan las clases de fútbol en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
               
               </div>
             </div>
@@ -38,15 +36,19 @@
 
 
 
-            Se conoce como cantera, fuerzas básicas o divisiones juveniles a todos los equipos del fútbol base y
-            filiales semiprofesionales o de divisiones inferiores de los equipos profesionales. En algunos países están obligados por
-            reglamentos nacionales a mantener estos equipos. Para un club, disponer de una estructura de fútbol base, con una misma
-            filosofía de trabajo en todas sus categorías, desde infantiles a juveniles, puede suponer (además de un ahorro en cuanto a
-            fichajes de jugadores) que los jugadores hayan jugado desde pequeños de la misma manera, por lo que de una forma natural,
-            se pueden encontrar jugando en el primer equipo y adaptarse a conceptos y exigencias del juego desde el primer día.
-            Aunque en los equipos filiales no suela ser lo habitual, ya que pertenecen a categorías enfocadas a la formación,​
-            puede haber jugadores de mayor categoría, siempre y cuando posea ficha con dicho club inferior. En la Segunda División B por ejemplo,
-            primera categoría no-profesional del fútbol español, un equipo no podrá poseer más de 16 jugadores mayores de dicha edad
+          Desde los tiempos en los que comenzó hasta los actuales, la Escuela se ha diferenciado por su profesionalidad metodológica que tan buenos resultados ha dado.
+
+Tras la incorporación de la última tecnología, ha dado otro salto de calidad que la señala, más aún si es posible, del resto de escuelas y clubes que se dedican al deporte fútbol. Esta forma de trabajar es pionera y a la vez exclusiva de la Escuela Paco Pradas.
+
+Los alumnos están controlados periódicamente con una serie de test de valoración que  aportan la información necesaria para planificar, controlar y evaluar el desarrollo individualizado de los mismos.
+
+Tras las últimas valoraciones, se ha demostrado un promedio del 43% de mejora en los resultados que determinaron el consumo máximo de oxígeno (VO2 máx.), dato que está ínfimamente relacionado con la capacidad que tiene un niño de realizar práctica deportiva. Esta mejora de la condición física de los alumnos en un porcentaje importante, demuestra el buen trabajo que realizan los técnicos.
+
+Dichas pruebas, al mismo tiempo que favorecen el desarrollo y control de los alumnos, minimizan el riesgo de desarrollo de enfermedades cardiovasculares, diabetes, obesidad o cualquier síndrome metabólico que puedan sufrir en el futuro que, según los últimos estudios publicados, se eleva cada vez más.
+
+Gracias a la tecnología de la Escuela de Fútbol de Lucena, ésta puede detectar jóvenes talentos y desarrollar un sistema de entrenamiento individualizado a la altura de sus capacidades.
+
+La tecnología es un medio ideal para acercarnos a la excelencia del aprendizaje.
 
           </div>
         </div>
