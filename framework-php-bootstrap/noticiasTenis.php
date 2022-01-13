@@ -26,12 +26,9 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Tenis</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\tenis.jpg" alt="Card image" style="width:100%">
-              <span class="textoPolaroid">Categorías inferiores</span>
+              <img class="card-img-top" src="assets\img\imgTrabajo\tenis12.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Clases de tenis</h4>
-                <p class="card-text">Comienzan las clases de tenis con el ilustre profesor Rafael Nadal a las 10:00 A.M en nuestro polideportivo municipal </p>
-               
               </div>
             </div>
           </div>
@@ -42,12 +39,7 @@
 
 
 
-
-            Se disputa entre dos jugadores (individuales) o entre dos parejas (dobles).
-            El objetivo del juego es lanzar una pelota golpeándola con la raqueta de modo que rebote en la otra cancha pasando la red dentro de los límites permitidos del campo del rival,
-            procurando que este no pueda devolverla para conseguir un segundo rebote en el suelo y por ende un punto
-
-
+          Las inscripciones para la temporada 2022/2023 del Ranking Juvenil Federado Lucena van a comenzar. Dará comienzo el 1 de Febrero y las inscripciones están abiertas hasta el 26 de Marzo, a un precio de 20€ , para más información consulte nuestra web o llámanos.
 
           </div>
         </div>

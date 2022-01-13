@@ -26,11 +26,9 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Atletismo</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\atletismo01.jpg" alt="Card image" style="width:100%">
-              <span class="textoPolaroid">Categorías inferiores</span>
+              <img class="card-img-top" src="assets\img\imgTrabajo\atletismo12.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Club de atletismo Amo allá</h4>
-                <p class="card-text">Comienzan las clases de atletismo en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
               </div>
             </div>
           </div>
@@ -40,13 +38,13 @@
 
 
 
-            El atletismo es considerado el deporte organizado más antiguo del mundo. Abarca numerosas disciplinas agrupadas en carreras, saltos, lanzamientos y pruebas variadas.
+          ¿Quieres hacer atletismo? ¿Quieres divertirte aprendiendo el deporte rey? El atletismo es la base de casi cualquier deporte y además fundamental en el desarrollo físico, social y emocional de los menores.
 
-            El atletismo es el arte de superar a los adversarios en velocidad o en resistencia llamado también fondo,
-            en distancia o en mayor altura. El número de pruebas y los tipos ya sean individuales o en grupos, ha variado con el paso del tiempo.
-            El atletismo es uno de los pocos deportes, practicados a nivel mundial, ya sea entre aficionados o en competiciones de todos los niveles.
-            La simplicidad y los pocos medios necesarios para su práctica explican este éxito.
+Nuestras escuelas de atletismo se basan en los métodos aconsejados por la Real Federación Española de Atletismo y el Consejo Superior de Deportes. Están guiadas por técnicos titulados y con amplia experiencia en trabajar con menores. Con ellos disfrutarán, se divertirán y además aprenderán muchos valores.
 
+Nuestras escuelas están enfocadas a la enseñanza de TODAS las disciplinas del atletismo y a que los niñ@s se inicien en el mundo de las competiciones federadas. Nuestras escuelas se diferencian de las escuelas municipales en que tienen un horario más amplio y son más días, porque están dirigidas más al atletismo de club y federado, no exclusivamente a la iniciación. Para información de las escuelas municipales debéis dirigiros a los estadios donde se imparten dichos grupos.
+
+El coste de las escuelas se divide en la cuota de entrenamiento (reflejada en los cuadros de esta página) + pase anual de la instalación (entre 7,55 y 10,75 €/hora/semana según edades) + cuota de socio del club (50 €/año pero en septiembre sólo se cobran 5 € hasta diciembre) + material del club el primer año o cuando necesite renovación (entre 30 a 36 € por camiseta y pantalón/malla obligatorios) + licencia federativa para competir (6 € microlicencia hasta diciembre o desde 22 €/año según edad desde enero a diciembre). La cuota de entrenamiento se paga por trimestres.
 
           </div>
         </div>

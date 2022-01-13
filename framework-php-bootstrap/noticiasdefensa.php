@@ -26,12 +26,9 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Defensa personal</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\defensapersonalhd.jpg" alt="Card image" style="width:100%">
-              <span class="textoPolaroid">Categorías inferiores</span>
+              <img class="card-img-top" src="assets\img\imgTrabajo\defensapersonal2.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Clases de defensa personal</h4>
-                <p class="card-text">Comienzan las clases de defensa personal con el ilustre profesor yaki chan a las 10:00 A.M en nuestro polideportivo municipal </p>
-          
               </div>
             </div>
           </div>
@@ -40,9 +37,13 @@
 
 
 
-            La defensa personal es un conjunto de habilidades técnico-tácticas encaminadas a impedir o repeler1​ una agresión,
-            realizadas por uno mismo y para sí mismo.También recibe otras denominaciones como autoprotección o seguridad personal,
-            no obstante estos conceptos tienen un ámbito mayor, donde destaca fundamentalmente el componente preventivo
+          La violencia machista es una lacra que golpea a nuestra sociedad y que cada año sufren muchas mujeres. Por esta razón se ha creado un curso de defensa personal femenina, una forma de dotar a las mujeres de herramientas para que s epuedan defender en caso de sufrir una agresión.
+
+Ellas están aprendiendo a combatir el acoso y la violencia machista. Clases de defensa personal para que en caso de necesidad puedan reducir y paralizar a su agresor. Son mujeres, están aprendiendo a defenderse.
+
+"Una patada que emerge desde abajo y golpea los genitales masculinos. Zona fuerte de mi cuerpo, el pie, contra una zona blanda del otro. De abajo a arriba ejerzo mucho más dolor", instruye a sus alumnas Javier Mínguez, monitor de Defensa Personal Femenina.
+
+"Puede participar cualquier mujer porque cualquier mujer puede ser víctima de una agresión de cualquier tipo", asegura Héctor Mateos, de la Federación española de Lucha.
 
 
           </div>

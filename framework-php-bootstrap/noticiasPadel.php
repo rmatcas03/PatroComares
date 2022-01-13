@@ -26,11 +26,9 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Pádel</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\padel.jpg" alt="Card image" style="width:100%">
-              <span class="textoPolaroid">Categorías inferiores</span>
+              <img class="card-img-top" src="assets\img\imgTrabajo\padel12.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
-                <h4 class="card-title">Pádel center</h4>
-                <p class="card-text">Comienzan las clases de  pádel en nuestra academia nos vemos a las 21:30 en el polideportivo Municipal </p>
+                <h4 class="card-title">Torneo X Navidad pádel</h4>
               </div>
             </div>
           </div>
@@ -38,15 +36,11 @@
 
 
 
-            Se conoce como cantera, fuerzas básicas o divisiones juveniles a todos los equipos del fútbol base y
-            filiales semiprofesionales o de divisiones inferiores de los equipos profesionales. En algunos países están obligados por
-            reglamentos nacionales a mantener estos equipos. Para un club, disponer de una estructura de fútbol base, con una misma
-            filosofía de trabajo en todas sus categorías, desde infantiles a juveniles, puede suponer (además de un ahorro en cuanto a
-            fichajes de jugadores) que los jugadores hayan jugado desde pequeños de la misma manera, por lo que de una forma natural,
-            se pueden encontrar jugando en el primer equipo y adaptarse a conceptos y exigencias del juego desde el primer día.
-            Aunque en los equipos filiales no suela ser lo habitual, ya que pertenecen a categorías enfocadas a la formación,​
-            puede haber jugadores de mayor categoría, siempre y cuando posea ficha con dicho club inferior. En la Segunda División B por ejemplo,
-            primera categoría no-profesional del fútbol español, un equipo no podrá poseer más de 16 jugadores mayores de dicha edad
+          El Club El Vial Pádel de Córdoba acogió el acto de presentacion del décimo Open de Navidad Pádel La Armada, un nuevo certamen que se abrirá el próximo mes. El torneo vivió su puesta de largo de la mano del promotor vasco Miguel Urrutia, acompañado de Rafa García Courtoy, contando además con la presencia de diferentes patrocinadores de este evento deportivo. En su faceta más altruista, el torneo colaborará con la ONG MAS+ Ayuda y Solidaridad.
+
+El campeonato se celebrará del 10 al 12 de diciembre en las pistas del Club El Vial Córdoba y contará con las categorías de masculino, femenino, mixto y niños. Durante la celebración del torneo de pádel se producirá la visita de la escritora y guionista de cine madrileña Nieves Reyes Pallarés, como Madrina de Honor de este evento.
+
+Los invitados a a la presentación pudieron disfrutar de un rico aperitivo por gentileza de Ibéricos El Abuelo, empresa afincada en Córdoba.
 
           </div>
         </div>
