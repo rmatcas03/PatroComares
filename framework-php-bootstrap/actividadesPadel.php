@@ -26,30 +26,13 @@
               <div class="card-body">
                 <p class="card-text text-center"> Padel para todos </p>
                 <img class="card-img-top" src="assets\img\imgActividades\padel1.jpg" alt="Card image cap">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                <p class="card-text">
+                El pádel como deporte surgió desde 1990 y desde su nacimiento tuvo gran aceptación por parte de un buen numero de practicantes, lo que lo ha hecho muy practicado y de un rápido desarrollo.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+                Se describe como un deporte de raqueta o pala en el que oficialmente siempre se juega por parejas (aunque podamos encontrar pistas de padel individual) en el que un equipo coopera entre sí para enfrentarse ante otra pareja.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    
-                                    </p>
+                Por lo que se trata de un deporte de cooperacíon – oposición con espacios divididos por una red.
+                </p>
                 
               </div>
             </div>
@@ -58,15 +41,12 @@
               
               <div class="card-body">
                 
-              <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-                                    </p>
+              <p class="card-text"> Reglamento sobre campo y puntuacion</p>
+              <p class="card-text">
+              El campo de juego, como componente del pádel, posee una forma rectangular y posee 20 metros de largo pro 10 de ancho y se encuentra dividido por una red en la mitad del campo. El campo estará cerrado totalmente, con fondos de 4 metros de los cuales los 3 primeros deben permitir el rebote, al estar hechos de muro y el ultimo metro de malla, en el cual la pelota no rebotara, ademas los laterales estarán hecho por zonas escalonadas.
+              En lo que se refiere a la puntuación que se brinda a los jugadores de pádel y con la cual se puede ganar el juego, se maneja un formato similar al del tenis, así por puntos se dará de 15-30-40 y con uno mas se ganara un juego, hasta sumar 6 y hacerse a un set, siempre y cuando se tenga una ventaja de 2 juego respecto al rival o se jugará el tie break en el 6-6. 
+              Los partidos oficiales son siempre al mejor de 3 sets (aunque en el world padel tour hubo una época en la que las finales se estuvieron jugando al mejor de 5 sets)
+              </p>
                 
                 <div id="video-container">
                   <video id="video" width="640" height="365">
@@ -79,11 +59,11 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play">Play</button>
+                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
                     <progress id="seek-bar" value="0" max="100"></progress>
-                    <button type="button" id="mute">Mute</button>
+                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <button type="button" id="full-screen">Full-Screen</button>
+                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 

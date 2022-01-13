@@ -26,29 +26,17 @@
               <div class="card-body">
                 <p class="card-text text-center"> Liga de futbol infantil </p>
                 <img class="card-img-top" src="assets\img\imgActividades\futbol1.jpg" alt="Card image cap">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                <p class="card-text">¿Qué entendemos por Deporte en la infancia? </p>
+                <p class="card-text">
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+    Con ésta pregunta debemos entrar en la discusión del deporte moderno, el deporte que se lleva a cabo en nuestro medio.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+    La gran mayoría acordaremos que debe ser una actividad formativa y educativa, pero la realidad nos demuestra, que salvo honrosas excepciones, los niños en el deporte son utilizados buscando rendimiento y resultados.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+    Entonces deberemos preguntarnos ¿Qué es más importante el Deporte o el niño?
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    
+    Históricamente el niño ha atravesado por diferentes períodos, desde donde se lo tomaba como un adulto en miniatura, esperando de él las mismas respuestas y resultados de un adulto, hasta nuestros días, donde se le fue dando el lugar que le correspondía como niño. Niño que juega y que su única actividad importante es el juego. Con él se socializa, aceptando las reglas que el juego requiere, desarrollándose psíquica y motrizmente ya que va adecuando su cuerpo al movimiento que la necesidad requiere, adecuándose constantemente a los problemas que le presenta el medio. (Problemas que deberán respetar las distintas etapas evolutivas).
+             
                                     </p>
                 
               </div>
@@ -58,16 +46,23 @@
               
               <div class="card-body">
                 
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+              <p class="card-text"> Nada es permanente, con excepción del cambio </p>
+              <p class="card-text">
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+El camino al éxito está siempre en construcción, es un proceso permanente y no una meta que se debe alcanzar.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+La meta principal en la formación de técnicos de fútbol crear entrenadores capaces de hacer cosas nuevas y no solo repetir lo que han hecho otras generaciones de técnicos. Necesitamos más maestros creativos con capacidad de innovación, que en vez de enseñar a sus alumnos todo lo que saben, despierten con métodos más eficaces todo el potencial dormido en cada uno de sus discípulos, llevándolos más allá de sus limitaciones.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+En resumidas cuentas deben aplicar otro estilo de enseñanza que no se base en el comando, en vez de ser instructores y entrenadores deben convertirse en creadores, planificadores, observadores y consejeros expertos que alienten a sus alumnos a avanzar y superarse a si mismos y a su maestro.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-                                    </p>
+Nuestra juventud prefiere ser más estimulada que instruida.
+
+El verdadero aprendizaje solo se cumple, transfiriendo a los alumnos las decisiones que hasta ahora estaban a cargo de los entrenadores. Bloom considera la creatividad como la forma más elevada de actividad mental y de los logros humanos, la creatividad tiene mucho que ver con el juego. ¡Toda la creación es una recreación!
+
+La función trascendental del técnico es hacer pensar. Cuando un niño realiza un pase en vez de corregirle, preguntémosle que nos describa que le pareció el pase que efectuó. Desarrollemos en nuestros jugadores la habilidad de enseñarse a si mismos. Enseñar por medio de preguntas obliga al alumno a pensar, a juzgar, a mirar y a evaluar.
+
+
+              </p>
                 
                 <div id="video-container">
                   <video id="video" width="640" height="365">
@@ -80,11 +75,11 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play">Play</button>
+                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
                     <progress id="seek-bar" value="0" max="100"></progress>
-                    <button type="button" id="mute">Mute</button>
+                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <button type="button" id="full-screen">Full-Screen</button>
+                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 

@@ -26,22 +26,11 @@
               <div class="card-body">
                 <p class="card-text text-center"> La importancia de la defensa personal </p>
                 <img class="card-img-top" src="assets\img\imgActividades\defensa1.jpg" alt="Card image cap">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
+                <p class="card-text">                  
+                A través de la defensa personal aprenderás a desarrollar tus habilidades, tanto físicas como mentales, para aplicarlas debidamente ante situaciones de peligro y evitar así entrar en episodios de pánico y bloquearte. Con ellas mejorarás tu estado de forma física, lucharás contra el estrés y podrás potenciar tu instinto, detectando mejor según qué situaciones.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    
-                                    </p>
+                También hay clases de defensa personal femenina que te permitirán mejorar la confianza en ti misma en el día a día. Sabrás aplicar las técnicas de defensa personal femenina que puedan ser en cada momento más acertadas.
+                </p>
                 
               </div>
             </div>
@@ -50,20 +39,13 @@
               
               <div class="card-body">
                 
-              <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+              <p class="card-text">
+              En PatroComares impartimos un excelente sistema de defensa personal, especialmente orientado a técnicas de fácil ejecución, donde podrás aprender a defenderte ante un ataque de forma eficaz y contundente.
 
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-                                    
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+              Es cada vez más importante saber interpretar las distintas situaciones en las que nos podemos encontrar en peligro, ya sean físicas o verbales, en la calle o en el hogar. Tu reto será desarrollar habilidades mentalespara poder aplicarlas de manera racional y salir airoso en situaciones de peligro evitando el pánico.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-                                    </p>
+              Gracias a las clases de defensa personal lograrás mejorar tu forma física, combatiendo el estrés y aprendiendo a potenciar tu instinto de defensa, así como tu nivel de tolerancia y control.
+              </p>
 
                 <div id="video-container">
                   <video id="video" width="640" height="365">
@@ -76,11 +58,11 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play">Play</button>
+                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
                     <progress id="seek-bar" value="0" max="100"></progress>
-                    <button type="button" id="mute">Mute</button>
+                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <button type="button" id="full-screen">Full-Screen</button>
+                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 

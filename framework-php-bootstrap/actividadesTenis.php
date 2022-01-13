@@ -26,30 +26,9 @@
               <div class="card-body">
                 <p class="card-text text-center"> Partidos mas destacados </p>
                 <img class="card-img-top" src="assets\img\imgActividades\tenis1.jpg" alt="Card image cap">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    
-                                    </p>
+                <p class="card-text"> 
+                El tenis es uno de los juegos más populares y practicados que existen. Con este deporte  ejercitarás cuerpo y mente y podrás practicarlo de manera individual o en equipo. Además es uno de los pocos deportes que permite jugar a hombres y mujeres al mismo tiempo. Y por supuesto, es bueno para todas las edades, por ejemplo, el tenis infantil, así que no tienes excusa para probarlo. Además, existen otras modalidades como el tenis de mesa que no puedes dejar pasar por alto.
+                </p>
                 
               </div>
             </div>
@@ -58,18 +37,15 @@
               
               <div class="card-body">
                 
-              <p class="card-text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-              
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+              <p class="card-text">
+              El tenis es un deporte que se juega ,principalmente, al aire libre, y  se puede practicar de manera individual, es decir, jugador contra jugador o entre parejas.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+              La historia del tenis se remonta al siglo XIX, en el continente europeo. En sus primeros años es difundido masivamente, en los países anglosajones, razón por la cual, adopta el sobrenombre de “deporte blanco”. Asimismo, su ejercicio era reservado para las clases más acomodadas. Su fundador fue el comandante británico Walter Clopton Wingkifield. Es institucionalizado como deporte en el año 1926.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
+              Actualmente, la globalización de este deporte ha trascendido largamente razas y condición social.  En un principio fueron las colonias del imperio británico, las que incorporaron el tenis a sus prácticas habituales, dotándolas de un espíritu mestizo.
 
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-
-                                    Some quick example text to build on the card title and make up the bulk of the card's content.
-                                    </p>
+              Entre los torneos de tenis más importantes que se disputan, se encuentran el de Wimbledon, el Roland Garros y los abiertos de Estados Unidos. Sin embrago, el torneo internacional, que define al campeón mundial, es la Copa Davis, celebrada desde 1990.
+              </p>
                 
                 <div id="video-container">
                   <video id="video" width="640" height="365">
@@ -82,11 +58,11 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play">Play</button>
+                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
                     <progress id="seek-bar" value="0" max="100"></progress>
-                    <button type="button" id="mute">Mute</button>
+                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <button type="button" id="full-screen">Full-Screen</button>
+                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 
