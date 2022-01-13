@@ -39,7 +39,7 @@
 
 
 
-          Las inscripciones para la temporada 2022/2023 del Ranking Juvenil Federado Lucena han empezado. Dará comienzo el 1 de Febrero y las inscripciones están abiertas hasta el 26 de Marzo, a un precio de 20€.
+          Las inscripciones para la temporada 2022/2023 del Ranking Juvenil Federado Lucena van a comenzar. Dará comienzo el 1 de Febrero y las inscripciones están abiertas hasta el 26 de Marzo, a un precio de 20€ , para más información consulte nuestra web o llámanos.
 
           </div>
         </div>
