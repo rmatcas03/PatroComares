@@ -50,20 +50,33 @@
             <div class="row mb-2">
                 <div class="col-lg-4">
                     <div class="card">
-                        <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
-                        <div class="card-text text-center">Noticia 1</div>
+                        <div class="card-body">
+                            <img class="card-img-top " src="assets\img\imgTrabajo\futbol.jpg" alt="Card image" style="width:100%; height:300px">
+                            <div class="card-body">
+                                <h4 class="card-title">Lucena fc</h4>
+                                <a href="noticiasFutbol.php" class="btn btn-secondary">Más información</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="card">
-                        <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
-                        <div class="card-text text-center">Noticia 2</div>
+                        <div class="card-body">
+                            <img class="card-img-top" src="assets\img\imgTrabajo\natacion1.jpg" alt="Card image" style="width:100%; height:300px">
+                            <h4 class="card-title">Piscina municipal</h4>
+                            <p class="card-text">Clases de natación en nuestra piscina municipal</p>
+                            <a href="noticiasNatacion.php" class="btn btn-secondary">Más información</a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4">
                     <div class="card">
-                        <div class="card-img"><img src="assets\img\portfolio\cabin.png" width="100%" height="100%"></div>
-                        <div class="card-text text-center">Noticia 3</div>
+                        <div class="card-body">
+                            <img class="card-img-top" src="assets\img\imgTrabajo\tenis.jpg" alt="Card image" style="width:100%; height:300px">
+                            <h5 class="card-title">Clases de tenis </h5>
+                            <p class="card-text">Comienzan nuestras clases de tenis</p>
+                            <a href="noticiasTenis.php" class="btn btn-secondary">Más información</a>
+                        </div>
                     </div>
                 </div>
             </div>
