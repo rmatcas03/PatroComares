@@ -26,26 +26,26 @@
 
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgActividades\emoji2.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\jesus.jpg" alt="Card image">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
-                            <p>Nombre:</p>
-                            <p>Apellidos:</p>
-                            <p>Direccion:</p>
-                            <p>Telefono:</p>
+                            <p>Nombre: Jesús </p>
+                            <p>Apellidos: Burguillos Ojeda</p>
+                            <p>Direccion: C/ del baloncesto Nº 4, Lucena (Córdoba)</p>
+                            <p>Telefono: 658 43 32 44</p>
                         </div>
                     </div>  
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgActividades\emoji2.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\ruben.jpg" alt="Card image">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
-                            <p>Nombre:</p>
-                            <p>Apellidos:</p>
-                            <p>Direccion:</p>
-                            <p>Telefono:</p>
+                            <p>Nombre: Rubén</p>
+                            <p>Apellidos: Mata Castro</p>
+                            <p>Direccion:C/ del padel Nº 3, Cabra (Córdoba)</p>
+                            <p>Telefono: 622 41 39 51</p>
                         </div>
                     </div>  
                  
@@ -54,26 +54,26 @@
                 <div class="col-lg-6">
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgActividades\emoji2.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\david.jpg" alt="Card image">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
-                            <p>Nombre:</p>
-                            <p>Apellidos:</p>
-                            <p>Direccion:</p>
-                            <p>Telefono:</p>
+                            <p>Nombre: David</p>
+                            <p>Apellidos: Garrido García</p>
+                            <p>Direccion: C/ del futbol Nº 7, Lucena (Córdoba)</p>
+                            <p>Telefono: 663 57 36 11</p>
                         </div>
                     </div>  
                     <div class="row border border-5 border-info m-1 mb-5">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgActividades\emoji2.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\joseluis.jpg" alt="Card image">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
-                            <p>Nombre:</p>
-                            <p>Apellidos:</p>
-                            <p>Direccion:</p>
-                            <p>Telefono:</p>
+                            <p>Nombre: Jose Luis</p>
+                            <p>Apellidos: Ruz Gil</p>
+                            <p>Direccion: C/ El Naranjo Nº 5, Montilla (Córdoba)</p>
+                            <p>Telefono: 638 58 46 46</p>
                         </div>
                     </div>  
                 
