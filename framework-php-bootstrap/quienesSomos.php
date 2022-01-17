@@ -72,7 +72,7 @@
                             <h3>Datos Personales</h3>
                             <p>Nombre: Jose Luis</p>
                             <p>Apellidos: Ruz Gil</p>
-                            <p>Direccion: C/ El Naranjo Nº 5, Montilla (Córdoba)</p>
+                            <p>Direccion: C/ Natacion Nº 5, Montilla (Córdoba)</p>
                             <p>Telefono: 638 58 46 46</p>
                         </div>
                     </div>  
