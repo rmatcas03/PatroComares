@@ -27,6 +27,9 @@
                         <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
                         <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-instagram"></i></a>
                         <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <br><br>
+                        
+                        <a class="link-light" href="terminos.php">Términos</a>
                     </div>
                 </div>
             </div>
