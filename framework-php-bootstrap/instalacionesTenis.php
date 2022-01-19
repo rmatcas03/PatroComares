@@ -18,25 +18,17 @@
                     <h2>Instalaciones Tenis</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\padel.png">
+                    <img class="img-fluid" src="assets\img\imgTrabajo\tenis12.jpg">
                 </div>
                 <div class="col-6 d-flex flex-column">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-
-            </div>
-
-            <div class="d-flex justify-content-between row my-5">
-
-                <div class="col-6 ">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-                <div class="col-6 d-flex flex-column">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\padel.png">
+                    <p>Tenis Patronato es uno de los mejores centros de Cabra. Pocos recintos en la zona congregan una oferta deportiva tan amplia como lo hace esta instalación.</p>
+                    <p>Promoción en las pistas de tenis del 50%, con previa reserva en las oficinas del patronato municipal de deportes.</p>
+                    <p>Dicha promoción es válida hasta el 31 de Octubre. Precio abonados de 4,75 e y precio no abonados de 5,25 e al cual se le haría el 50% de descuento.</p>
+                    <p>Información e inscripciones en www.deportecabra.es, Oficinas del PDM o llamando al 957520674.</p>
+                    <p>A partir del 23 de junio la venta se realizará en la taquilla de las piscinas de verano y Oficina Electrónica del P.M.D. www.deportecabra.es</p>
+                    <p>El pago de los Abonos de temporada individual y familiar será con TARJETA DE CRÉDITO.</p>
+                    <p>La instalación cuenta con unas normas propias de uso de la instalación además de un protocolo ANTI COVID - 19, que todos los usuarios deberán cumplir para un mejor y seguro funcionamiento y disfrute de la actividad acuática.</p>
+                    <p>Más información sobre precios, descuentos y normas en el DIPTICO VERANO 2021, adjunto en esta página.</p>
                 </div>
 
             </div>

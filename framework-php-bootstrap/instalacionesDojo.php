@@ -21,22 +21,14 @@
                     <img class="img-fluid" src="assets\img\imgTrabajo\dojo.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-
-            </div>
-
-            <div class="d-flex justify-content-between row my-5">
-
-                <div class="col-6 ">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-                <div class="col-6 d-flex flex-column">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\dojo.png">
+                    <p>Nuestra escuela, situada en el edificio Avenida Montes Sierra 36, dispone de más de 500m2 dedicados a la formación integral del individuo.</p>
+                    <p>En nuestras instalaciones se vertebran en dos ejes: la zona dedicada al estudio del budo y cultura japonesa,y la zona dedicada al desarrollo del bienestar (métodos naturales de salud, yoga, taichí y pilates).</p>
+                    <p>Nuestras instalaciones cuentan con:</p>
+                    <p>Tatami diáfano de 80m2</p>
+                    <p>Pretatami de 20m2, para prácticas individuales.</p>
+                    <p>Sala multi usos con suelo de tarima flotante de 45m2 diáfanos.</p>
+                    <p>3 salas naturopáticas, de 12m2, totalmente acondicionadas con posibilidad de alquiler.</p>
+                    <p>Sala multiusos de 45m2 diáfanos.</p>
                 </div>
 
             </div>
