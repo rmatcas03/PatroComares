@@ -25,6 +25,7 @@
                     <div class="dropdown-menu bg-primary text-uppercase border-0 " aria-labelledby="navbarDropdown">
                         <a class="dropdown-item text-white" href="/instalacionesFutbol.php">Pista de fútbol</a>
                         <a class="dropdown-item text-white" href="/instalacionesPadel.php">Pista de pádel</a>
+                        <a class="dropdown-item text-white" href="/instalacionesTenis.php">Pista de tenis</a>
                         <a class="dropdown-item text-white" href="/instalacionesAtletismo.php">Pista de atletismo</a>
                         <a class="dropdown-item text-white" href="/instalacionesPiscina.php">Piscina</a>
                         <a class="dropdown-item text-white" href="/instalacionesDojo.php">Dojo</a>
