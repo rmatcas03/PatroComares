@@ -24,11 +24,9 @@
                     </a>
                     <div class="dropdown-menu bg-primary text-uppercase border-0 " aria-labelledby="navbarDropdown">
                         <a class="dropdown-item text-white" href="/instalacionesFutbol.php">Pista de fútbol</a>
-                        <a class="dropdown-item text-white" href="/instalacionesBaloncesto.php">Pista de baloncesto</a>
                         <a class="dropdown-item text-white" href="/instalacionesPadel.php">Pista de pádel</a>
                         <a class="dropdown-item text-white" href="/instalacionesAtletismo.php">Pista de atletismo</a>
                         <a class="dropdown-item text-white" href="/instalacionesPiscina.php">Piscina</a>
-                        <a class="dropdown-item text-white" href="/instalacionesGimnasio.php">Gimnasio</a>
                         <a class="dropdown-item text-white" href="/instalacionesDojo.php">Dojo</a>
                     </div>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Eventos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="eventos.php">Eventos</a></li>
