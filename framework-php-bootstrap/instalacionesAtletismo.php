@@ -5,7 +5,7 @@
 <head>
     <?php include("includes/head-tag-contents.php"); ?>
     <style>
-        
+
     </style>
 </head>
 
@@ -24,22 +24,15 @@
                     <img class="img-fluid" src="assets\img\imgTrabajo\atletismo.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-
-            </div>
-
-            <div class="d-flex justify-content-between row my-5">
-
-                <div class="col-6 ">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-                <div class="col-6 d-flex flex-column">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\atletismo.png">
+                    <p>Es una pista de atletismo de 400 m., que aunque no está homologada para competiciones oficiales, puede cubrir perfectamente necesidades competitivas de un nivel medio.</p>
+                    <p>En su interior dispone de un campo de hierba natural para el desarrollo de competiciones de concurso.</p>
+                    <p>Las características de las actividades que se realizan en esta instalación son las siguientes:</p>
+                    <p>Actividades docentes de atletismo.</p>
+                    <p>Actividades docentes de gran desplazamiento con empleo de móviles y balones.</p>
+                    <p>Actividades recreativas con grandes desplazamientos y grandes grupos, que no dañen el césped.</p>
+                    <p>Competiciones deportivas no oficiales de atletismo</p>
+                    <p>Entrenamientos de los equipos de atletismo propios y de convenios de colaboración.</p>
+                    <p>Alquileres de instalación para deportes de atletismo.</p>
                 </div>
 
             </div>

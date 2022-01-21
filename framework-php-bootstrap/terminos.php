@@ -22,6 +22,7 @@
                 Todos los servicios contenidos en este sitio Web son prestados por el Ayuntamiento conforme a la legislación
                 y normativa vigentes.
             </span>
+            <hr>
             <h2>Política de seguridad de la información</h2>
             <p>
                 Como aplicación del Real Decreto 3/2010 por el que se regula el Esquema Nacional de Seguridad en el ámbito
@@ -30,7 +31,7 @@
                 gestión y aseguramiento de la información manejada, incluida la referente a datos de carácter personal,
                 en los sistemas de información de los que dispone.
             </p>
-
+            <hr>
             <h2>Propiedad intelectual</h2>
             <p>
                 Todos los textos y contenidos multimedia publicados en este sitio Web son titularidad del Ayuntamiento,
@@ -38,6 +39,7 @@
                 transformación, salvo para uso personal y privado. Si desea reutilizar nuestros contenidos de manera habitual
                 para uso público, debe contar con una autorización expresa del Ayuntamiento, debiendo hacer constar su procedencia.
             </p>
+            <hr>
             <h2>Seguridad de los datos personales</h2>
             <p>
                 Para proteger tus datos personales, el Titular toma todas las precauciones razonables y sigue las mejores
@@ -58,7 +60,7 @@
                 se requerirá consentimiento al Usuario informando sobre la identidad del colaborador y la finalidad de la
                 colaboración. Siempre se realizará con los más estrictos estándares de seguridad.
             </p>
-
+            <hr>
             <h2>Términos y licencias de las imágenes utilizadas</h2>
             <p>Todas las imágenes han sido proporcionadas por la página <a href="https://www.flickr.com/"> flickr </a> y <a href="https://www.pexels.com/es-es/"> pexels</a>.</p>
             <ul>
@@ -74,8 +76,6 @@
                 <li>Las imágenes utilizadas en la página "Home", licencia
                     <a href="https://www.pexels.com/es-es/creative-commons-images/"> aquí</a>.
                 </li>
-
-
             </ul>
 
         </div>

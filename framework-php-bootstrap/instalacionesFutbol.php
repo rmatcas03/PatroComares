@@ -20,27 +20,21 @@
                 <div class="col-6">
                     <img class="img-fluid" src="assets\img\imgTrabajo\futbol.png">
                 </div>
-                <div class="col-6 d-flex flex-column"> 
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
-
-            </div>
-
-            <div class="d-flex justify-content-between row my-5">
-
-                <div class="col-6 ">
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                </div>
                 <div class="col-6 d-flex flex-column">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\futbol.png">
+                    <br><br><br>
+                    <p>Instalación deportiva compuesta por pista de atletismo y campo de fútbol de césped natural.</p>
+                    <p>La pista de atletismo de 400 m dispone de 6 calles, fosos de salto, colchonetas y vallas, para el entrenamiento, bajo petición.</p>
+                    <p>Es habitual el uso para entrenamiento de atletismo y fútbol, así como competiciones de fútbol de carácter local y federado.</p>
+                    <p>Dispone de vestuarios, duchas, aseos y grada cubierta para los espectadores. Existen aparcamientos públicos en las inmediaciones.</p>
+                    <p>Dirección: Urbanización Cerro Mulera, s/n.</p>
+                    <p>Horario: de lunes a viernes de 16:00h a 22:00h, sábados de 9:00h a 12:00h.</p>
+                    <p>A partir del 23 de junio la venta se realizará en la taquilla de las piscinas de verano y Oficina Electrónica del P.M.D. www.deportecabra.es</p>
+                    <p>El pago de los Abonos de temporada individual y familiar será con TARJETA DE CRÉDITO.</p>
+                    <p>La instalación cuenta con unas normas propias de uso de la instalación además de un protocolo ANTI COVID - 19, que todos los usuarios deberán cumplir para un mejor y seguro funcionamiento y disfrute de la actividad acuática.</p>
+                    <p>Más información sobre precios, descuentos y normas en el DIPTICO VERANO 2021, adjunto en esta página.</p>
                 </div>
 
             </div>
-        </div>
     </main>
 
     <?php include("includes/footer.php"); ?>
