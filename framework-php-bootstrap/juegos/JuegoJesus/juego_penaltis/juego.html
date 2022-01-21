@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PENALTIS JUEGO</title>
+    <meta charset="utf-8" />
+
+    <style>
+      body {
+        background-image: url("fondo.png");
+        color: white;
+        font-variant: small-caps;
+      }
+
+      table {
+        margin: auto;
+        border-spacing: 0px;
+      }
+
+      h2 {
+        text-align: center;
+      }
+    </style>
+
+    <script>
+      var limpiar = function () {
+        document.getElementById("img_0").src = "array.png";
+        document.getElementById("img_1").src = "array.png";
+        document.getElementById("img_2").src = "array.png";
+      };
+
+      //despues de cada tiro coloca el arquero en el centro
+      var arquero_centro = function () {
+        document.getElementById("img_0").src = "array.png";
+        document.getElementById("img_1").src = "portero_inicio.png";
+        document.getElementById("img_2").src = "array.png";
+      };
+
+      var recargar = function () {
+        location.reload();
+      };
+
+      var goles = 0;
+      var paradas = 0;
+
+      var disparo = function (dir) {
+        limpiar();
+        var gk = parseInt(Math.random() * 3); //0 izq 1 cen 2 der
+
+        switch (dir) {
+          case "izq":
+            if (gk == 0) {
+              document.getElementById("img_0").src =
+                "portero_izquierda_parada.png";
+
+              document.getElementById("mens").innerHTML = "Gran parada!";
+              paradas++;
+              setTimeout(arquero_centro, 1000);
+            } else {
+              switch (gk) {
+                case 1:
+                  document.getElementById("img_1").src = "portero_inicio.png";
+                  break;
+                case 2:
+                  document.getElementById("img_2").src = "portero_derecha.png";
+                  break;
+              }
+
+              document.getElementById("img_0").src = "gol.png";
+
+              document.getElementById("mens").innerHTML = "GOAL!!!!!!!";
+              goles++;
+              setTimeout(arquero_centro, 1000);
+            }
+
+            break;
+
+          case "cen":
+            if (gk == 1) {
+              document.getElementById("img_1").src =
+                "portero_centro_parada.png";
+
+              document.getElementById("mens").innerHTML = "Gran parada!";
+              paradas++;
+              setTimeout(arquero_centro, 1000);
+            } else {
+              switch (gk) {
+                case 0:
+                  document.getElementById("img_0").src =
+                    "portero_izquierda.png";
+                  break;
+                case 2:
+                  document.getElementById("img_2").src = "portero_derecha.png";
+                  break;
+              }
+
+              document.getElementById("img_1").src = "gol.png";
+
+              document.getElementById("mens").innerHTML = "GOAL!!!!!!!";
+              goles++;
+              setTimeout(arquero_centro, 1000);
+            }
+
+            break;
+
+          case "der":
+            if (gk == 2) {
+              document.getElementById("img_2").src =
+                "portero_derecha_parada.png";
+
+              document.getElementById("mens").innerHTML = "Gran parada!";
+              paradas++;
+              setTimeout(arquero_centro, 1000);
+            } else {
+              switch (gk) {
+                case 0:
+                  document.getElementById("img_0").src =
+                    "portero_izquierda.png";
+                  break;
+                case 1:
+                  document.getElementById("img_1").src = "portero_inicio.png";
+                  break;
+              }
+              document.getElementById("img_2").src = "gol.png";
+
+              document.getElementById("mens").innerHTML = "GOAL!!!!!!!";
+              goles++;
+              setTimeout(arquero_centro, 1000);
+            }
+
+            break;
+        }
+
+        document.getElementById("goles").innerHTML = goles;
+        document.getElementById("paradas").innerHTML = paradas;
+        document.getElementById("disparos").innerHTML = paradas + goles;
+      };
+    </script>
+  </head>
+
+  <body>
+    <h2>JUEGO DE PENALTIS</h2>
+
+    <table border="0">
+      <tr>
+        <td><img id="img_0" src="array.png" /></td>
+        <td><img id="img_1" src="portero_inicio.png" /></td>
+        <td><img id="img_2" src="array.png" /></td>
+      </tr>
+    </table>
+
+    <div id="mens" style="text-align: center; font-size: 20px">CHUTA!</div>
+
+    <br />
+
+    <table border="1">
+      <caption>
+        ESTADÍSTICAS
+      </caption>
+      <tr>
+        <td>TIROS</td>
+        <td><span id="disparos">0</span></td>
+      </tr>
+      <tr>
+        <td>GOLES</td>
+        <td><span id="goles">0</span></td>
+      </tr>
+      <tr>
+        <td>PARADAS</td>
+        <td><span id="paradas">0</span></td>
+      </tr>
+    </table>
+
+    <br />
+
+    <table border="0">
+      <tr>
+        <td>
+          <img
+            width="100px"
+            height="100px"
+            src="flecha_izquierda.png"
+            onclick="disparo('izq')"
+          />
+        </td>
+        <td>
+          <img
+            width="100px"
+            height="100px"
+            src="flecha_arriba.png"
+            onclick="disparo('cen')"
+          />
+        </td>
+        <td>
+          <img
+            width="100px"
+            height="100px"
+            src="flecha_derecha.png"
+            onclick="disparo('der')"
+          />
+        </td>
+      </tr>
+
+      <tr>
+        <td colspan="3" style="text-align: center">
+          <button type="button" onclick="recargar()">RECARGAR</button>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
