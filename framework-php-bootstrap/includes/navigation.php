@@ -18,6 +18,7 @@
             <ul class="navbar-nav ms-auto d-flex align-items-center">
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "¿Quienes somos?") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="quienesSomos.php">¿Quienes somos?</a></li>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Actividades") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="actividadesPortada.php">Actividades</a></li>
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "juegos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="juegos.php">Juegos</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link py-3 px-0 px-lg-3  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Instalaciones
