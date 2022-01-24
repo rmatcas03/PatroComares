@@ -18,7 +18,7 @@
         <a href="juegos\JuegoJesus\juego_penaltis\juego.html">Jesús Burguillos Ojeda</a><br>
         <a href="juegos\JuegoRuben\juego.html">Rubén Mata Castro</a><br>
         <a href="juegos\JuegoDavid\Messi Invaders\src\videojuego-javascript.html">David Garrido García</a><br>
-        <a href="juegos\JuegoJoseLuis\juego.html">José Luis Ruz Gil</a><br>
+        <a href="juegos\JuegoJoseLuis\bolaLoca.html">José Luis Ruz Gil</a><br>
     </div>
     </section>
 
