@@ -18,7 +18,7 @@
                     <h2>Instalaciones Dojo</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgTrabajo\dojo.png">
+                    <img class="img-fluid" src="assets\img\imgInstalaciones\dojo.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <p>Nuestra escuela, situada en el edificio Avenida Montes Sierra 36, dispone de más de 500m2 dedicados a la formación integral del individuo.</p>
