@@ -8457,3 +8457,12 @@ main {
 
 .copyright {
   background-color: #001232; }
+
+
+  #azulillo {
+    color: blue
+}
+
+#azulillo:hover {
+    text-decoration: underline;
+}
