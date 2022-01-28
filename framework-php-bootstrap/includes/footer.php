@@ -36,3 +36,12 @@
         </div>
     </div>
 </footer>
+
+<div class="alert text-center cookiealert" role="alert">
+        Si lo desea puede pasar directamente a la pantalla de registro 
+        <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
+            Deseo pasar siempre a la pantalla de registro
+        </button>
+    </div>
+
+    <script src="js/cookiealert.js"></script>
