@@ -21,12 +21,10 @@
         </div>
 
       </div>
-      <div class=" container-fluid text-center">
-        <div class="row mt-3">
-          <div class="col-lg-8">
+      <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Tenis</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\tenis123.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgTrabajo\tenis.jpg" alt="Card image" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Clases de tenis</h4>
               </div>
