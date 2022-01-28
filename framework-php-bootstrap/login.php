@@ -37,7 +37,7 @@
                 </div>
                 <p><span id="azulillo"> ¿Olvidó su contraseña? </span> </p>
                 <div class="d-flex justify-content-end"> <!-- Esto es un parráfo(div) que contiene en su interior un boton que los hemos desplazado a la derecha mediante la clase que le hemos puesto-->
-                    <button type="submit" class="btn btn-primary">Login</button>
+                    <button type="submit" class="btn btn-secondary">Login</button>
                 </div>
                 <hr>
                 <p><a href="register.php">¿No está registrado? Regístrese!</a> </p>
