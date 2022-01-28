@@ -11,62 +11,43 @@
     <?php include("includes/navigation.php"); ?>
     <main>
         <!-- Contact Section-->
-        <div class="container-fluid mb-5">
+        <body>
 
-        <div class="d-flex justify-content-between row my-3 ">
+<div class="row mt-3 my-2  justify-content-center">
+    <!-- para hacer tarjetas en horizontal-->
 
-<div class="col-lg-6">
-    <div class="card border-0 mx-5" style="width:250px">
-        <h2 class="mx-5 text-center">Mi perfil</h2>
-        <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Card image">
+    <div class="card col-lg-4">
+
         <div class="card-body">
+            <h2 style="font-family: 'Roboto', sans-serif"  class="d-flex justify-content-center">Login</h2>
+            <hr>
+            <form action="/action_page.php">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="email" class="form-control" id="email" placeholder="Email" name="email">
+                </div>
+                <div class="form-group">
+                    <label for="pwd">Contraseña:</label>
+                    <input type="password" class="form-control" id="pwd" placeholder="Contraseña" name="pswd">
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" type="checkbox" name="remember"> Recordar contraseña
+                    </label>
+                </div>
+                <p><span id="azulillo"> ¿Olvidó su contraseña? </span> </p>
+                <div class="d-flex justify-content-end"> <!-- Esto es un parráfo(div) que contiene en su interior un boton que los hemos desplazado a la derecha mediante la clase que le hemos puesto-->
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+                <hr>
+                <p><a href="register.php">¿No está registrado? Regístrese!</a> </p>
+            </form>
 
-            <div class="container-fluid text-center">
-                <!--pone centrado el boton de perfil-->
-                <a href="#" class="btn btn-secondary">Cambiar</a>
-            </div>
+
         </div>
     </div>
-</div>
-<div class="col-lg-6 d-flex flex-column text-start">
-    <form>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Nombre</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Nombre">
-        </div>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Apellido1</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Apellido1">
-        </div>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Apellido2</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Apellido2">
-        </div>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Teléfono</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Telefono">
-        </div>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Correo electrónico</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-        </div>
-        <div class="form-group my-3">
-            <label for="exampleFormControlInput1">Dirección</label>
-            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Direccion">
-        </div>
-        <div class="form-group my-3 d-flex flex-row align-items-center ">
-            <label for="exampleFormControlInput1">Password</label>
-            <input type="password" class="password flex-grow-1 mx-1" id="exampleFormControlInput1" placeholder="Password">
-        </div>  
-        
-        <div class="align-items-center text-center ">
-        <button type="button" class="btn btn-secondary">Confirmar</button>
-        </div>
-    </form>
-</div>
-
-            </div>
-        </div>
+   
+</body>
     </main>
     <?php include("includes/footer.php"); ?>
 
