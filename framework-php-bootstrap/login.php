@@ -40,7 +40,7 @@
                     <button type="submit" class="btn btn-secondary">Entrar</button>
                 </div>
                 <hr>
-                <p><a href="register.php">¿No está registrado? Regístrese!</a> </p>
+                <p><a  id="azulillo" href="register.php">¿No está registrado? Regístrese!</a> </p>
             </form>
 
 
