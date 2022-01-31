@@ -10,7 +10,7 @@ switch ($_SERVER["SCRIPT_NAME"]) {
 		break;
 	case "/contact.php":
 		$CURRENT_PAGE = "Contact";
-		$PAGE_TITLE = "Contact Us";
+		$PAGE_TITLE = "Contacto";
 		break;
 	case "/quienesSomos.php":
 		$CURRENT_PAGE = "¿Quienes somos?";
@@ -55,6 +55,10 @@ switch ($_SERVER["SCRIPT_NAME"]) {
 	case "/login.php":
 		$CURRENT_PAGE = "login";
 		$PAGE_TITLE = "login";
+		break;
+	case "/eventos.php":
+		$CURRENT_PAGE = "Eventos";
+		$PAGE_TITLE = "Eventos";
 		break;
 	default:
 		$CURRENT_PAGE = "Index";
