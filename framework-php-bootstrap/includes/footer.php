@@ -38,9 +38,9 @@
 </footer>
 
 <div class="alert text-center cookiealert" role="alert">
-        Si lo desea puede pasar directamente a la pantalla de registro 
+        Esta pagina utiliza cookies. Si continuas consideramos que aceptas su uso. 
         <button type="button" class="btn btn-primary btn-sm acceptcookies" aria-label="Close">
-            Deseo pasar siempre a la pantalla de registro
+            Aceptar cookies
         </button>
     </div>
 
