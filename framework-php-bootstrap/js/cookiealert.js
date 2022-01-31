@@ -34,10 +34,14 @@
         var d = new Date();
         d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
         var expires = "expires=" + d.toUTCString();
-        if (exdays == 0) 
-           document.cookie = cname + "=" + cvalue + ";path=/";
-        else
-           document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        if (exdays == 0) {
+            document.cookie = cname + "=" + cvalue + ";path=/";
+        }
+           
+        else {
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+           
     }
 
     function getCookie(cname) {
