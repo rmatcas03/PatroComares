@@ -16,9 +16,9 @@
 
         <div class="collapse navbar-collapse mx-auto" id="navbarResponsive">
             <ul class="navbar-nav ms-auto d-flex align-items-center">
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "¿Quienes somos?") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="quienesSomos.php">¿Quienes somos?</a></li>
+                
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Actividades") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="actividadesPortada.php">Actividades</a></li>
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "juegos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="juegos.php">Juegos</a></li>
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="noticiasDestacadas.php">Noticias</a></li>
                 <li class="nav-item dropdown">
                     <a class="nav-link py-3 px-0 px-lg-3  dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Instalaciones
@@ -31,9 +31,32 @@
                         <a class="dropdown-item text-white" href="/instalacionesPiscina.php">Piscina</a>
                         <a class="dropdown-item text-white" href="/instalacionesDojo.php">Dojo</a>
                     </div>
+                </li>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Eventos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="eventos.php">Eventos</a></li>
-                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Noticias") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="noticiasDestacadas.php">Noticias</a></li>
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Contacto") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="contact.php">Contacto</a></li>
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "¿Quienes somos?") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="quienesSomos.php">¿Quienes somos?</a></li>
+                <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Juegos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="juegos.php">Juegos</a></li>
+                <!--
+                <li>
+                    <?php
+                    /*
+                    if ($login_button == '') {
+                        echo '<img src="' . $_SESSION["user_image"] . '" class="image-circle" />';
+                    } else {
+                        echo '<div align="center">' . $login_button . '</div>';
+                    }
+                    */
+                    ?>
+                </li>
+                <?php
+                /*
+                if ($login_button == '') {
+                    echo '<li>' . $_SESSION['user_first_name'] . ' ' . $_SESSION['user_last_name'] . '</li>';
+                    echo '<li>' . '<a href="logout.php">Logout</a>' . '</li>';
+                }
+                */
+                ?>
+                -->
                 <li class="nav-item mx-0 mx-lg-1">
                     <a class="btn btn-secondary mb-3 mb-sm-0" role="button" href="login.php">Login</a>
                 </li>
