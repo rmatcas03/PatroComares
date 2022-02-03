@@ -16,15 +16,17 @@
     cookieAlert.offsetHeight; // Force browser to trigger reflow (https://stackoverflow.com/a/39451131)
 
     // Show the alert if we cant find the "acceptCookies" cookie
-    if (!getCookie("directlyGoToLoginCookie")) {
+    if (!getCookie("cookieAceptada")) {
         cookieAlert.classList.add("show");
     }
-    
+    else { // La cookie sí existe
+        cookieAlert.classList.add('d-none');
+    }
 
     // When clicking on the agree button, create a 1 year
     // cookie to remember user's choice and close the banner
     acceptCookies.addEventListener("click", function () {
-        setCookie("directlyGoToLoginCookie", true, 0);
+        setCookie("cookieAceptada", true, 0);
         cookieAlert.classList.remove("show");
         location.href = "index.php";
     });
