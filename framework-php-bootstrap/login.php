@@ -1,4 +1,10 @@
-<?php include("includes/a_config.php"); ?>
+<?php include("includes/a_config.php"); 
+include("includes/dbconnection.php");
+include("includes/googleconnect.php");
+if(isset($_SESSION['user_email_address'] )){
+    header('Location: index.php');
+}
+?>
 <!DOCTYPE html>
 <html>
 
@@ -42,6 +48,8 @@
                 <hr>
                 <p><a  id="azulillo" href="register.php">¿No está registrado? Regístrese!</a> </p>
             </form>
+
+            <?php echo $login_button; ?>
 
 
         </div>

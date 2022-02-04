@@ -38,7 +38,7 @@
                 <li class="nav-item mx-0 mx-lg-1"><a class="nav-link <?php if ($CURRENT_PAGE == "Juegos") { ?>active<?php } ?> py-3 px-0 px-lg-3 rounded" href="juegos.php">Juegos</a></li>
 
                 <?php
-                /*
+                
                 if ($login_button == '') {
                     echo '<li class="dropdown d-none d-md-block">
                     <a class="btn btn-secondary dropdown" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
@@ -60,20 +60,19 @@
                     } else {
                         echo '<div align="center">' . $login_button . '</div>';
                     }
-                    */
+                */
                 ?>
                 </li>
                 <?php
                 if ($login_button == '') {
                     echo '<li>' . $_SESSION['user_first_name']. '</li>';
                     echo '<li>' . '<a href="logout.php">Logout</a>' . '</li>';
-                }
+                } else {
                 ?>
-                <!--
                 <li class="nav-item mx-0 mx-lg-1">
                     <a class="btn btn-secondary mb-3 mb-sm-0" role="button" href="login.php">Login</a>
                 </li>
-            -->
+                <?php }; ?>
             </ul>
         </div>
 </div>

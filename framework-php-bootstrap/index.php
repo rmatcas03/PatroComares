@@ -1,9 +1,12 @@
-<?php include("includes/a_config.php"); ?>
+<?php include("includes/a_config.php"); 
+include("includes/dbconnection.php");
+include("includes/googleconnect.php")?>
 <!DOCTYPE html>
 <html>
 
 <head>
     <?php include("includes/head-tag-contents.php"); ?>
+    
 
 </head>
 
@@ -11,6 +14,10 @@
 
     <?php include("includes/navigation.php"); ?>
     <main>
+            <?php if(isset($_SESSION['user_email_address'] )&& !isset($_SESSION['iduser'] ) ){
+                include('registermodal.php');
+            }
+            ?>
         <div class="container-fluid">
             <div class="row my-2">
                 <div class="col">
@@ -81,6 +88,7 @@
                     </div>
                 </div>
             </div>
+            
     </main>
 
     <?php include("includes/footer.php"); ?>
