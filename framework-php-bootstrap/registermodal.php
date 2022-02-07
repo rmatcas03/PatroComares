@@ -4,6 +4,51 @@ Cuando el usuario complete todos los campos correctamente y pulse "Submit" se re
 a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que el 
 registro es obligatorio.
 -->
+
+<div class="modal show" tabindex="-1">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+
+      <div class="modal-body">
+        <div class='row-form'>
+          <div class='column-form'>
+            <label for="email"><b>E-mail</b></label>
+            <input type="email" placeholder="Enter Email" name="email" value="<?php echo $_SESSION['user_email_address']; ?>" readonly>
+            <label for="firstname"><b>First Name</b></label>
+            <input type="text" name="firstname" value="<?php echo $_SESSION['user_first_name']; ?>" readonly>
+            <label for="lastname"><b>Last Name</b></label>
+            <input type="text" name="lastname" value="<?php echo $_SESSION['user_last_name']; ?>" readonly>
+          </div>
+          <div class='column-form'>
+            <label for="birthdate"><b>Birth date</b></label>
+            <input type="date" name="birthdate" required>
+            <label for="postalcode"><b>Postal Code</b></label>
+            <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Enter six digit postal code" name="postalcode" required>
+            <label for="captcha"><b>
+                <?php if (isset($_GET["captchaerror"]))
+                  echo "Invalid code. Please enter de Captcha Text.";
+                else
+                  echo "Please Enter the Captcha Text<b>";
+                ?>
+              </b></label>
+            <img src="includes/generatecaptcha.php" alt="CAPTCHA" class="captcha-image"><i class="fas fa-redo refresh-captcha"></i>
+            <input type="text" id="captcha" name="captcha_challenge" pattern="[A-Z]{6}">
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 
 <div id="id01" class="modal">
   <span onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="close" title="Close Modal">&times;</span>
   <form class="modal-content" action="/register.php" method="POST">
@@ -14,11 +59,14 @@ registro es obligatorio.
       <div class='row-form'>
          <div class='column-form'>
           <label for="email"><b>E-mail</b></label>
-          <input type="email" placeholder="Enter Email" name="email" value="<?php echo $_SESSION['user_email_address'];?>" readonly>
+          <input type="email" placeholder="Enter Email" name="email" value="<?php //echo $_SESSION['user_email_address'];
+                                                                            ?>" readonly>
           <label for="firstname"><b>First Name</b></label>
-          <input type="text" name="firstname" value="<?php echo $_SESSION['user_first_name'];?>" readonly>
+          <input type="text" name="firstname" value="<?php //echo $_SESSION['user_first_name'];
+                                                      ?>" readonly>
           <label for="lastname"><b>Last Name</b></label>
-          <input type="text" name="lastname" value="<?php echo $_SESSION['user_last_name'];?>" readonly>
+          <input type="text" name="lastname" value="<?php //echo $_SESSION['user_last_name'];
+                                                    ?>" readonly>
          </div>
          <div class='column-form'>
           <label for="birthdate"><b>Birth date</b></label>
@@ -26,10 +74,10 @@ registro es obligatorio.
           <label for="postalcode"><b>Postal Code</b></label>
           <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Enter six digit postal code" name="postalcode" required>
           <label for="captcha"><b>
-          <?php if (isset($_GET["captchaerror"])) 
-                   echo "Invalid code. Please enter de Captcha Text.";
-                else 
-                   echo "Please Enter the Captcha Text<b>";
+          <?php //if (isset($_GET["captchaerror"])) 
+          //   echo "Invalid code. Please enter de Captcha Text.";
+          //else 
+          //  echo "Please Enter the Captcha Text<b>";
           ?>
           </b></label>
           <img src="includes/generatecaptcha.php" alt="CAPTCHA" class="captcha-image"><i class="fas fa-redo refresh-captcha"></i>
@@ -51,4 +99,4 @@ registro es obligatorio.
     document.querySelector(".captcha-image").src = 'includes/generatecaptcha.php?' + Date.now();
   }
   </script>
-</div>
+</div> -->

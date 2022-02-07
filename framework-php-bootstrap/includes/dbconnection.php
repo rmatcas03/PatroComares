@@ -3,7 +3,7 @@
 //La base de datos primero llamando al script createdatabase.php.
 
 $servername = "localhost";
-$database = "googlelogin";
+$database = "patrocomares";
 $username = "diw";
 $password = "abc123.";
 
