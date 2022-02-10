@@ -53,27 +53,12 @@
                 </li>';
                 }
                 ?>
-                <?php
-                /*
-                    if ($login_button == '') {
-                        echo '<img src="' . $_SESSION["user_image"] . '" class="image-circle" />';
-                    } else {
-                        echo '<div align="center">' . $login_button . '</div>';
-                    }
-                */
-                ?>
-                </li>
-                <?php
-                if ($login_button == '') {
-                    echo '<li>' . $_SESSION['user_first_name']. '</li>';
-                    echo '<li>' . '<a href="logout.php">Logout</a>' . '</li>';
-                } else {
-                ?>
-                <li class="nav-item mx-0 mx-lg-1">
-                    <a class="btn btn-secondary mb-3 mb-sm-0" role="button" href="login.php">Login</a>
-                </li>
-                <?php }; ?>
             </ul>
         </div>
 </div>
 </nav>
+<?php
+    if ((($login_button == '') && !isset($_SESSION["iduser"])) || isset($_GET["register"])) {
+        include("includes/registermodal.php");
+    }
+?>
