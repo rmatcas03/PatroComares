@@ -33,6 +33,11 @@
                 </p>
                 
               </div>
+
+              <div class="container-fluid text-center">
+                <a href="insertarActividad.php" class="btn btn-primary">Inscribirse</a>
+              </div>
+
             </div>
 
             <div class="card">
@@ -65,6 +70,8 @@
                 </div>
 
                 <script src="js/video.js"></script>
+
+                
 
               </div>
             </div>
