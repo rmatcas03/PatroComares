@@ -30,7 +30,7 @@ registro es obligatorio.
          <div class='column-form'>
           <label for="fecha_nacimiento"><b>Fecha Nac</b></label>
           <input type="date" name="fecha_nacimiento" required>
-          <div class="align-items-center text-center ">
+          <div>
           <label for="codigoPostal"><b>Código postal</b></label>
           <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Introduce el código postal" name="codigoPostal" required>
           </div>
@@ -42,14 +42,13 @@ registro es obligatorio.
                    //echo "Please Enter the Captcha Text<b>";
           ?>
           </b></label>
-
-          <div class="align-items-center text-center ">
-          <input type="text" id="captcha" name="captcha_challenge" pattern="[A-Z]{6}">
-          </div>
         <div class="text-center">
           <img src="includes/generatecaptcha.php" alt="CAPTCHA" class="captcha-image"><i class="fas fa-redo refresh-captcha"></i>
         </div>
-       
+        <br>
+        <div class="align-items-center text-center ">
+          <input type="text" id="captcha" name="captcha_challenge" pattern="[A-Z]{6}">
+          </div>
 </div>
          </div>
       </div>
