@@ -4,39 +4,26 @@ Cuando el usuario complete todos los campos correctamente y pulse "Submit" se re
 a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que el 
 registro es obligatorio.
 -->
-<div class="modal show" tabindex="-1">
+<div id="modalregistro" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title">Modal title</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body">
-        <p>Modal body text goes here.</p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!--
-<div id="id01" class="modal">
-  <span onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="close" title="Close Modal">&times;</span>
-  <form class="modal-content" action="/register.php" method="POST">
+      <form class="modal-content" action="/register.php" method="POST">
     <div class="container">
-      <h1 class="modal-title">Sign Up</h1>
+      <h1 class="modal-title"  class="btn btn-primary" >Sign Up</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
       <div class='row-form'>
          <div class='column-form'>
           <label for="email"><b>E-mail</b></label>
-          <input type="email" placeholder="Enter Email" name="email" value="<?php //echo $_SESSION['user_email_address'];?>" readonly>
+          <input type="email" placeholder="Enter Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address'];?>" readonly>
           <label for="firstname"><b>First Name</b></label>
-          <input type="text" name="firstname" value="<?php //echo $_SESSION['user_first_name'];?>" readonly>
+          <input type="text" name="firstname" value="<?php echo $_SESSION['user_first_name'];?>" readonly>
           <label for="lastname"><b>Last Name</b></label>
-          <input type="text" name="lastname" value="<?php //echo $_SESSION['user_last_name'];?>" readonly>
+          <input type="text" name="lastname" value="<?php echo $_SESSION['user_last_name'];?>" readonly>
          </div>
          <div class='column-form'>
           <label for="birthdate"><b>Birth date</b></label>
@@ -63,6 +50,17 @@ registro es obligatorio.
       </div>
     </div>
   </form>
+        </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary">Save changes</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!--
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="close" title="Close Modal">&times;</span>
   <script>
   var refreshButton = document.querySelector(".refresh-captcha");
   refreshButton.onclick = function() {
@@ -70,3 +68,10 @@ registro es obligatorio.
   }
   </script>
 </div> -->
+<script>
+var myModal = new bootstrap.Modal(document.getElementById('modalregistro'), {
+  keyboard: false
+})
+
+myModal.show();
+</script>
