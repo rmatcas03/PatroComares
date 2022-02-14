@@ -7,29 +7,34 @@ registro es obligatorio.
 <div id="modalregistro" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-header bg-primary">
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body bg-primary">
       <form class="modal-content" action="/register.php" method="POST">
-    <div class="container">
-      <h1 class="modal-title"  class="btn btn-primary" >Sign Up</h1>
-      <p>Please fill in this form to create an account.</p>
+    <div class="container ">
+      <h1 class="modal-title text-center" >Registro</h1>
+      <p class=" text-center ">Por favor rellene los campos que faltan.</p>
       <hr>
-      <div class='row-form'>
-         <div class='column-form'>
+      <div class='row-form text-center'>
+         <div class='column-form '>
           <label for="email"><b>E-mail</b></label>
-          <input type="email" placeholder="Enter Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address'];?>" readonly>
-          <label for="firstname"><b>First Name</b></label>
-          <input type="text" name="firstname" value="<?php echo $_SESSION['user_first_name'];?>" readonly>
-          <label for="lastname"><b>Last Name</b></label>
-          <input type="text" name="lastname" value="<?php echo $_SESSION['user_last_name'];?>" readonly>
+          <input type="email" placeholder="Introduce Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address'];?>" readonly>
+         <div>
+          <label for="nombre"><b>Nombre</b></label>
+          <input type="text" name="nombre" value="<?php echo $_SESSION['user_first_name'];?>" readonly>
+          </div>
+          <label for="apellidos"><b>Apellidos</b></label>
+          <input type="text" name="apellidos" value="<?php echo $_SESSION['user_last_name'];?>" readonly>
          </div>
          <div class='column-form'>
-          <label for="birthdate"><b>Birth date</b></label>
-          <input type="date" name="birthdate" required>
-          <label for="postalcode"><b>Postal Code</b></label>
-          <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Enter six digit postal code" name="postalcode" required>
+          <label for="fecha_nacimiento"><b>Fecha Nac</b></label>
+          <input type="date" name="fecha_nacimiento" required>
+          <div>
+          <label for="codigoPostal"><b>Código postal</b></label>
+          <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Introduce el código postal" name="codigoPostal" required>
+          </div>
+          <div>
           <label for="captcha"><b>
           <?php //if (isset($_GET["captchaerror"])) 
                   // echo "Invalid code. Please enter de Captcha Text.";
@@ -37,23 +42,31 @@ registro es obligatorio.
                    //echo "Please Enter the Captcha Text<b>";
           ?>
           </b></label>
+        <div class="text-center">
           <img src="includes/generatecaptcha.php" alt="CAPTCHA" class="captcha-image"><i class="fas fa-redo refresh-captcha"></i>
+        </div>
+        <div class="align-items-center text-center ">
           <input type="text" id="captcha" name="captcha_challenge" pattern="[A-Z]{6}">
+          </div>
+</div>
          </div>
       </div>
+      <div class="text-center">
       <label>
-        <input type="checkbox" required name="terms" style="margin-bottom:15px"> I've read and accept the <a href="#" style="color:dodgerblue">Terms & Privacy</a>.
+        <input type="checkbox" required name="terms" style="margin-bottom:15px"> He leído y acepto los <a href="#" style="color:dodgerblue">Terms & Privacidad</a>.
       </label>
       <div class="clearfix">
-        <button type="button" onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="cancelbtn">Cancel</button>
-        <button type="submit" class="signupbtn">Sign Up</button>
+        <button type="button" onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="cancelbtn">Cancelar</button>
+        <button type="submit" class="signupbtn">Registrar</button>
       </div>
     </div>
+</div>
   </form>
         </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
+      <div class="modal-footer bg-primary text-center">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-secondary">Guardar cambios</button>
+
       </div>
     </div>
   </div>
