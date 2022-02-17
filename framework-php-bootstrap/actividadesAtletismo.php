@@ -35,7 +35,7 @@
               </div>
 
               <div class="container-fluid text-center">
-                <a href="insertarActividad.php" class="btn btn-secondary">Inscribirse</a>
+                <a href="insertarActividad.php" class="btn btn-primary">Inscribirse</a>
               </div>
 
             </div>
