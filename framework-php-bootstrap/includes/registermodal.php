@@ -64,11 +64,11 @@ registro es obligatorio.
 </div>
   </form>
         </div>
-      <div class="modal-footer bg-primary text-center">
+    <!--  <div class="modal-footer bg-primary text-center">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
         <button type="button" class="btn btn-secondary">Guardar cambios</button>
 
-      </div>
+      </div>-->
     </div>
   </div>
 </div>
