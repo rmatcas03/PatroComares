@@ -20,22 +20,27 @@
   <div class="mt-2 mb-2 container">
 
     <form id="form1" onsubmit="enviaformulario()" method="post" action="registarActividad.php" class="row g-3">
-      <!--
+      
+
+
       <div class="col-md-6">
         <label for="usuario" class="form-label">Usuario</label>
-        <input type="usuario" class="form-control" id="usuario">
+        <input type="usuario" class="form-control" id="usuario" value="<?php echo $_SESSION['user_first_name']; ?>">
       </div>
-      -->
+      
+
+
       <div class="col-md-6">
         <label for="Actividad" class="form-label">Actividad</label>
-        <input type="actividad" class="form-control" id="actividad">
+        <input type="actividad" class="form-control" id="actividad" value="">
       </div>
 
       <div class="col-md-6">
         <label for="Fecha" class="form-label">Fecha Inscripcion</label>
         <input type="date" class="form-control" id="fecha" name="trip-start"
               value=""
-              min="<?php echo date("Y-m-d");  ?>" max="2022-12-31">
+              min="<?php echo date("Y-m-d");  ?>" max="<?php $date = date("Y-m-d");
+                                                              echo date('Y-m-d', strtotime("+12 months $date"));?>">
 <!--
         <label for="Fecha Inscripcion" class="form-label">Fecha Inscripcion</label>
         <input type="fecha" class="form-control" id="fecha" placeholder="YYYY/MM/DD">
@@ -129,6 +134,7 @@
           });
           
           function enviaformulario(){
+            alert("La inscripción se envio correctamente, gracias por su participación");
 //            alert("Hola"+quill.root.innerHTML);
             document.getElementById("comentario").value = quill.root.innerHTML;
             console.log(document.getElementById("comentario").value);
