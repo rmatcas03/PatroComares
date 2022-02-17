@@ -60,6 +60,7 @@ CREATE TABLE `user` (
   `firstname` varchar(100) NOT NULL,
   `lastname` varchar(100) NOT NULL,
   `email` varchar(100) NOT NULL,
+  `password` varchar(200) NOT NULL,
   `birthdate` date NOT NULL,
   `postalcode` varchar(20) NOT NULL,
   `tlf` varchar(15) NOT NULL
