@@ -40,10 +40,6 @@
               value=""
               min="<?php echo date("Y-m-d");  ?>" max="<?php $date = date("Y-m-d");
                                                               echo date('Y-m-d', strtotime("+12 months $date"));?>">
-<!--
-        <label for="Fecha Inscripcion" class="form-label">Fecha Inscripcion</label>
-        <input type="fecha" class="form-control" id="fecha" placeholder="YYYY/MM/DD">
--->
       </div>
 
 
