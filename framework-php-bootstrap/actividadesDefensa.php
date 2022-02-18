@@ -35,7 +35,7 @@
               </div>
 
               <div class="container-fluid text-center">
-                <a href="insertarActividad.php" class="btn btn-secondary">Inscribirse</a>
+                <a href="insertarActividad.php?actividad=defensa&id_actividad=4" class="btn btn-secondary">Inscribirse</a>
               </div>
 
             </div>
