@@ -34,7 +34,6 @@
         <label for="Actividad" class="form-label">Actividad</label>
         <input type="actividad" class="form-control" id="actividad" value="">
       </div>
-
       <div class="col-md-6">
         <label for="Fecha" class="form-label">Fecha Inscripcion</label>
         <input type="date" class="form-control" id="fecha" name="trip-start"
@@ -44,15 +43,15 @@
 <!--
         <label for="Fecha Inscripcion" class="form-label">Fecha Inscripcion</label>
         <input type="fecha" class="form-control" id="fecha" placeholder="YYYY/MM/DD">
--->        
+-->
       </div>
 
 
       
       <div class="col-md-6">
-        <label for="Puntuacion" class="form-label">Puntuación</label>
-        <select id="Puntuacion" class="form-select">
-          <option value="" selected disabled> 1 - 10</option>
+        <label for="provincia" class="form-label">Puntuación</label>
+        <select id="provincia" class="form-select">
+          <option selected> 1 - 10 </option>
           <option value="1"> 1 </option>
           <option value="2"> 2 </option>
           <option value="3"> 3 </option>
@@ -164,7 +163,7 @@
         </div>
       </div>
       <div class="col-md-12">
-        <button type="submit" class="btn btn-secondary">Confirmar</button>
+        <button type="submit" class="btn btn-primary">Confirmar</button>
       </div>
     </form>
   </div>
