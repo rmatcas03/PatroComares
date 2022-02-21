@@ -46,7 +46,7 @@ if(isset($_SESSION['user_email_address'] )){
                     <button type="submit" class="btn btn-secondary">Entrar</button>
                 </div>
                 <hr>
-                <p><a  id="azulillo" href="index.php?register=true">¿No está registrado? Regístrese!</a> </p>
+                <p><a  id="azulillo" href="includes\registermodal2.php">¿No está registrado? Regístrese!</a> </p>
             </form>
 
             <?php echo $login_button; ?>
