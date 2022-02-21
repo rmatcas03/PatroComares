@@ -1,6 +1,6 @@
 <?php
 
-require_once "includes\Conexion.php";
+require_once "controllers\Conexion.php";
 
 class ControladorUsuario {
 
@@ -8,7 +8,7 @@ class ControladorUsuario {
         try{
             $conexion = new Conexion();
             $pass = md5($usuario->password);
-            $inserto = $conexion->exec("INSERT INTO user (iduser, firstname, lastname, email, password, birthdate, postalcode, tlf) VALUES ('$usuario->iduser','$usuario->firstname','$usuario->lastname','$usuario->email','$pass','$usuario->birthdate','$usuario->postalcode', '$usuario->tlf')");
+            $inserto = $conexion->exec("INSERT INTO user (iduser, firstname, lastname, email, birthdate, postalcode, tlf) VALUES ('$usuario->iduser','$usuario->firstname','$usuario->lastname','$usuario->email','$usuario->birthdate','$usuario->postalcode', '$usuario->tlf')");
         }catch(PDOException $ex){
             die('error con la base de datos'. $ex->getMessage());
         }

@@ -1,9 +1,9 @@
 <!--Cuando llamemos a este modal la sesión de Google está abierta, pero el usuario
 aún no está en la base de datos.
 Cuando el usuario complete todos los campos correctamente y pulse "Submit" se redigirá 
-a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que el 
-registro es obligatorio.
--->
+a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que elregistro es obligatorio. --->
+
+
 <div id="modalregistro" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -24,9 +24,12 @@ registro es obligatorio.
                   <label for="nombre"><b>Nombre</b></label>
                   <input type="text" name="nombre" value="<?php echo $_SESSION['user_first_name']; ?>" readonly>
                 </div>
+                <div>
                 <label for="apellidos"><b>Apellidos</b></label>
                 <input type="text" name="apellidos" value="<?php echo $_SESSION['user_last_name']; ?>" readonly>
+</div>
               </div>
+            
               <div class='column-form'>
                 <label for="fecha_nacimiento"><b>Fecha Nac</b></label>
                 <input type="date" name="fecha_nacimiento" required>
@@ -35,6 +38,7 @@ registro es obligatorio.
                   <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Introduce el código postal" name="codigoPostal" required>
                 </div>
                 <div>
+                  
                   <label for="captcha"><b>
                       <?php //if (isset($_GET["captchaerror"])) 
                       // echo "Invalid code. Please enter de Captcha Text.";
@@ -58,7 +62,7 @@ registro es obligatorio.
               </label>
               <div class="clearfix">
                 <button type="button" onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="cancelbtn">Cancelar</button>
-                <button type="submit" class="signupbtn">Registrar</button>
+                <button type="submit" name="enviar" class="signupbtn">Registrar</button>
               </div>
             </div>
           </div>
@@ -66,7 +70,7 @@ registro es obligatorio.
       </div>
 
      
-    <!--  <div class="modal-footer bg-primary text-center">
+    <!--<div class="modal-footer bg-primary text-center">
         <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
         <button type="button" class="btn btn-secondary">Guardar cambios</button>-->
 
@@ -83,7 +87,7 @@ registro es obligatorio.
     document.querySelector(".captcha-image").src = 'includes/generatecaptcha.php?' + Date.now();
   }
   </script>
-</div> -->
+</div> 
 <script>
   var myModal = new bootstrap.Modal(document.getElementById('modalregistro'), {
     keyboard: false
