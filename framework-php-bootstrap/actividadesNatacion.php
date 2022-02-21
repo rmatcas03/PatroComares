@@ -33,6 +33,11 @@
                 </p>
                 
               </div>
+
+              <div class="container-fluid text-center">
+                <a href="insertarActividad.php?actividad=natacion&id_actividad=2" class="btn btn-secondary">Inscribirse</a>
+              </div>
+
             </div>
 
             <div class="card">
