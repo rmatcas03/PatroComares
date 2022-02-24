@@ -97,13 +97,19 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <input type="text" name="confContr" value="">
                 </div>
               </div>
-              <div class="text-center">
+              <div class="text-center row mb-5">
                 <label>
                   <input type="checkbox" required name="terms" style="margin-bottom:15px"> He leído y acepto los <a href="#" style="color:dodgerblue">Terms & Privacidad</a>.
                 </label>
-                <div class="clearfix">
-                  <button type="button" onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="cancelbtn">Cancelar</button>
-                  <button type="submit" name="enviar" class="signupbtn">Registrar</button>
+                <div class="mb-5 col">
+                  <div class="row">
+                    <div class="col-6">
+                      <button type="button" onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="cancelbtn">Cancelar</button>
+                    </div>
+                    <div class="col-6">
+                      <button type="submit" name="enviar" class="signupbtn">Registrar</button>
+                    </div>
+                  </div>
                 </div>
               </div>
             </form>
