@@ -4,7 +4,7 @@ Cuando el usuario complete todos los campos correctamente y pulse "Submit" se re
 a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que elregistro es obligatorio. --->
 
 
-<div id="modalregistro1" class="modal fade" tabindex="-1">
+<div id="modalregistro" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header bg-primary">
