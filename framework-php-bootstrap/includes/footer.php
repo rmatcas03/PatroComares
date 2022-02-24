@@ -12,7 +12,7 @@
                 </p>
             </div>
             <div class="col-lg-6 mb-lg-0">
-                <img src="\assets\img\logos\lucena.png" width="172" height="287"><br>
+                <img src="\assets\img\logos\lucena.png" alt="escudo" width="172" height="287"><br>
             </div>
 
             <div class="col-lg-3 mb-lg-0">
@@ -23,10 +23,10 @@
                 </div>
                 <div class="row">
                     <div class="col-12">
-                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-instagram"></i></a>
-                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
+                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><span class="sr-only text-dark">facebook</span><i class="fab fa-fw fa-facebook-f"></i></a>
+                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><span class="sr-only text-dark">twitter</span><i class="fab fa-fw fa-twitter"></i></a>
+                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><span class="sr-only text-dark">instagram</span><i class="fab fa-instagram"></i></a>
+                        <a class="btn btn-outline-secondary btn-social mx-1" href="#!"><span class="sr-only text-dark">linkedin</span><i class="fab fa-fw fa-linkedin-in"></i></a>
                         <br><br>
                         
                         <a class="link-light" href="terminos.php">Términos</a>
