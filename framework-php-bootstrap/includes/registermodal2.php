@@ -4,14 +4,14 @@ Cuando el usuario complete todos los campos correctamente y pulse "Submit" se re
 a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que elregistro es obligatorio. --->
 
 
-<div id="modalregistro" class="modal fade" tabindex="-1">
+<div id="modalregistro1" class="modal fade" tabindex="-1">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header bg-primary">
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body bg-primary">
-        <form class="modal-content" action="/register.php" method="POST">
+        <form class="modal-content" action="/register2.php" method="POST">
           <div class="container ">
             <h1 class="modal-title text-center">Registro</h1>
             <p class=" text-center ">Por favor rellene los campos que faltan.</p>
@@ -23,7 +23,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="email"><b>E-mail</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="email" placeholder="Introduce Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address']; ?>" readonly>
+                  <input type="email" name="email" value="" required>
                 </div>
               </div>
               <div class="form row">
@@ -31,7 +31,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="nombre"><b>Nombre</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="text" name="nombre" value="<?php echo $_SESSION['user_first_name']; ?>" readonly>
+                  <input type="text" name="nombre" value="" required>
                 </div>
               </div>
               <div class="form row">
@@ -39,7 +39,15 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="apellidos"><b>Apellidos</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="text" name="apellidos" value="<?php echo $_SESSION['user_last_name']; ?>" readonly>
+                  <input type="text" name="apellidos" value="" required>
+                </div>
+              </div>
+              <div class="form row">
+                <div class="form-group col-5 d-flex justify-content-end">
+                  <label for="tlf"><b>Teléfono</b></label>
+                </div>
+                <div class="form-group col-5 d-flex justify-content-start">
+                  <input type="text" name="tlf" value="" required>
                 </div>
               </div>
               <div class="form row">
@@ -73,7 +81,22 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
               <div class="align-items-center text-center ">
                 <input type="text" id="captcha" name="captcha_challenge" pattern="[A-Z]{6}">
               </div>
-
+              <div class="form row">
+                <div class="form-group col-5 d-flex justify-content-end">
+                  <label for="pass"><b>Contraseña</b></label>
+                </div>
+                <div class="form-group col-5 d-flex justify-content-start">
+                  <input type="pass" placeholder="Introduce contraseña" name="pass" value="">
+                </div>
+              </div>
+              <div class="form row">
+                <div class="form-group col-5 d-flex justify-content-end">
+                  <label for="confContr"><b>Confirmar Contraseña</b></label>
+                </div>
+                <div class="form-group col-5 d-flex justify-content-start">
+                  <input type="text" name="confContr" value="">
+                </div>
+              </div>
               <div class="text-center">
                 <label>
                   <input type="checkbox" required name="terms" style="margin-bottom:15px"> He leído y acepto los <a href="#" style="color:dodgerblue">Terms & Privacidad</a>.
@@ -86,31 +109,28 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
             </form>
           </div>
 
+          <!--<div class="modal-footer bg-primary text-center">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-secondary">Guardar cambios</button>-->
 
       </div>
     </div>
   </div>
-  </form>
-
-  <div id="id01" class="modal">
-    <span onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="close" title="Close Modal">&times;</span>
-    <script>
-      var refreshButton = document.querySelector(".refresh-captcha");
-      refreshButton.onclick = function() {
-        document.querySelector(".captcha-image").src = 'includes/generatecaptcha.php?' + Date.now();
-      }
-    </script>
-  </div>
-  <script>
-    var myModal = new bootstrap.Modal(document.getElementById('modalregistro'), {
-      keyboard: false
-    })
-
-    myModal.show();
-  </script>
 </div>
 
+<div id="id01" class="modal">
+  <span onclick="document.getElementById('id01').style.display='none';location.href='logout.php'" class="close" title="Close Modal">&times;</span>
+  <script>
+    var refreshButton = document.querySelector(".refresh-captcha");
+    refreshButton.onclick = function() {
+      document.querySelector(".captcha-image").src = 'includes/generatecaptcha.php?' + Date.now();
+    }
+  </script>
+</div>
+<script>
+  var myModal = new bootstrap.Modal(document.getElementById('modalregistro'), {
+    keyboard: false
+  })
 
-<div class="modal-footer bg-primary text-center">
-        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
-  </div>
+  myModal.show();
+</script>

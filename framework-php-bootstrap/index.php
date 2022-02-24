@@ -15,7 +15,7 @@ include("includes/googleconnect.php")?>
     <?php include("includes/navigation.php"); ?>
     <main>
             <?php if(isset($_SESSION['user_email_address'] )&& !isset($_SESSION['iduser'] ) ){
-                include('registermodal.php');
+                include('includes\registermodal.php');
             }
             ?>
         <div class="container-fluid">

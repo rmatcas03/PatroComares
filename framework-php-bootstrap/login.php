@@ -42,11 +42,11 @@ if(isset($_SESSION['user_email_address'] )){
                     </label>
                 </div>
                 <p><span id="azulillo"> ¿Olvidó su contraseña? </span> </p>
-                <div class="d-flex justify-content-end"> <!-- Esto es un parráfo(div) que contiene en su interior un boton que los hemos desplazado a la derecha mediante la clase que le hemos puesto-->
+                <div class="d-flex justify-content-end"> <!-- Esto es un parráfo //div que contiene en su interior un boton que los hemos desplazado a la derecha mediante la clase que le hemos puesto-->
                     <button type="submit" class="btn btn-secondary">Entrar</button>
                 </div>
                 <hr>
-                <p><a  id="azulillo" href="index.php?register=true">¿No está registrado? Regístrese!</a> </p>
+                <p><a  id="azulillo" href="includes\registermodal2.php">¿No está registrado? Regístrese!</a> </p>
             </form>
 
             <?php echo $login_button; ?>
