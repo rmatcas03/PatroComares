@@ -45,7 +45,7 @@
                         ' . $_SESSION['user_first_name'] . '</a>
                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownMenuLink">
                         <li><a class="dropdown-item" href="perfil.php">Mi Perfil</a></li>
-                        <li><a class="dropdown-item" href="logout.php">Logout</a></li> 
+                        <li><a class="dropdown-item" href="logout.php">Cerrar sesión</a></li> 
                     </ul></li>';
                 } else {
                     echo '<li class="nav-item mx-0 mx-lg-1">
