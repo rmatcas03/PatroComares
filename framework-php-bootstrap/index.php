@@ -25,7 +25,7 @@ include("includes/googleconnect.php")?>
                     <div id="demo" class="carousel slide" data-bs-ride="carousel">
                         <!-- Indicators/dots -->
                         <div class="carousel-indicators">
-                            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active" alt="botón carrusel izquierdo"></button>
+                            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
                             <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
                             <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
                         </div>

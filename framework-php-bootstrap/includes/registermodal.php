@@ -23,7 +23,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="email"><b>E-mail</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="email" placeholder="Introduce Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address']; ?>" readonly>
+                  <input id="email" type="email" placeholder="Introduce Email" name="email" value="<?php if (isset($_SESSION['user_email_address'])) echo $_SESSION['user_email_address']; ?>" readonly>
                 </div>
               </div>
               <div class="form row">
@@ -31,7 +31,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="nombre"><b>Nombre</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="text" name="nombre" value="<?php echo $_SESSION['user_first_name']; ?>" readonly>
+                  <input id="nombre" type="text" name="nombre" value="<?php echo $_SESSION['user_first_name']; ?>" readonly>
                 </div>
               </div>
               <div class="form row">
@@ -39,7 +39,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="apellidos"><b>Apellidos</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="text" name="apellidos" value="<?php echo $_SESSION['user_last_name']; ?>" readonly>
+                  <input id="apellidos" type="text" name="apellidos" value="<?php echo $_SESSION['user_last_name']; ?>" readonly>
                 </div>
               </div>
               <div class="form row">
@@ -47,7 +47,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="fecha_nacimiento"><b>Fecha Nac</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="date" name="fecha_nacimiento" required>
+                  <input id="fecha_nacimiento" type="date" name="fecha_nacimiento" required>
                 </div>
               </div>
               <div class="form row">
@@ -55,7 +55,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                   <label for="codigoPostal"><b>Código postal</b></label>
                 </div>
                 <div class="form-group col-5 d-flex justify-content-start">
-                  <input type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Introduce el código postal" name="codigoPostal" required>
+                  <input id="codigoPostal" type="text" pattern="^[0][1-9][0-9]{3}$|^[1-4][0-9]{4}$|^[5][0-2][0-9]{3}$" maxlength="5" placeholder="Introduce el código postal" name="codigoPostal" required>
                 </div>
               </div>
 
