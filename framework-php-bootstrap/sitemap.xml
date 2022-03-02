@@ -25,5 +25,31 @@
   <loc>http://localhost/eventos.php</loc>
 </url>
 
-
+<!--
+  <url>
+<loc>https://patrocomares.iesmarquesdecomares.org/index.php</loc>
+<lastmod>2022-02-24T11:23:51+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://patrocomares.iesmarquesdecomares.org/actividadesPortada.php</loc>
+<lastmod>2022-02-24T11:23:51+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://patrocomares.iesmarquesdecomares.org/noticiasDestacadas.php</loc>
+<lastmod>2022-02-24T11:23:51+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://patrocomares.iesmarquesdecomares.org/eventos.php</loc>
+<lastmod>2022-02-24T11:23:51+00:00</lastmod>
+<priority>0.60</priority>
+</url>
+<url>
+<loc>https://patrocomares.iesmarquesdecomares.org/contact.php</loc>
+<lastmod>2022-02-24T11:23:51+00:00</lastmod>
+<priority>0.40</priority>
+</url>
+-->
 </urlset>
