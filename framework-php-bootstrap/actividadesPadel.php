@@ -64,11 +64,12 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
-                    <progress id="seek-bar" value="0" max="100"></progress>
-                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
+                    <button type="button" id="play-pause" class="play"> <span class="visually-hidden">botón de play </span> <i class="fas fa-play"></i> </button>
+                    <progress id="seek-bar" value="0" max="100"> </progress>
+                    <button type="button" id="mute"> <span class="visually-hidden">botón de sonido </span>  <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
+                    <label for="volume-bar"> <span class="visually-hidden">barra de sonido </span> </label>
+                    <button type="button" id="full-screen"> <span class="visually-hidden">botón de pantalla completa </span> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 

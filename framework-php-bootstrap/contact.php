@@ -24,20 +24,20 @@
                             <div class="col">
                                 <form>
                                     <div class="form-group my-3">
-                                        <label for="exampleFormControlInput1">Nombre</label>
-                                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="nombre">
+                                        <label for="Nombre">Nombre</label>
+                                        <input type="text" class="form-control" id="Nombre" placeholder="nombre">
                                     </div>
                                     <div class="form-group my-3">
-                                        <label for="exampleFormControlInput1">Correo electrónico</label>
-                                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                                        <label for="CorreoElectronico">Correo electrónico</label>
+                                        <input type="email" class="form-control" id="CorreoElectronico" placeholder="name@example.com">
                                     </div>
                                     <div class="form-group my-3">
-                                        <label for="exampleFormControlInput1">Asunto</label>
-                                        <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="asunto">
+                                        <label for="Asunto">Asunto</label>
+                                        <input type="text" class="form-control" id="Asunto" placeholder="asunto">
                                     </div>
                                     <div class="form-group mt-3">
-                                        <label for="exampleFormControlTextarea1">Tu mensaje</label>
-                                        <textarea class="form-control" id="exampleFormControlTextarea1"></textarea>
+                                        <label for="Mensaje">Tu mensaje</label>
+                                        <textarea class="form-control" id="Mensaje"></textarea>
                                     </div>
                             </div>
                         </div>

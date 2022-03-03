@@ -21,7 +21,7 @@
                     <h2>Instalaciones Atletismo</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgInstalaciones\atletismo.png">
+                    <img class="img-fluid" src="assets\img\imgInstalaciones\atletismo.png" alt="pista de atletismo">
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <p>Es una pista de atletismo de 400 m., que aunque no está homologada para competiciones oficiales, puede cubrir perfectamente necesidades competitivas de un nivel medio.</p>
