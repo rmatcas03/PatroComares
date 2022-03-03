@@ -59,7 +59,7 @@ a register.php. En caso de que cancele el modal redirigimos a logout.php, ya que
                 </div>
               </div>
 
-              <label for="captcha"><b>
+              <label for="captcha"><span class="sr-only">captcha</span><b>
                   <?php //if (isset($_GET["captchaerror"])) 
                   // echo "Invalid code. Please enter de Captcha Text.";
                   //else 

@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg bg-primary text-uppercase fixed-top" id="mainNav">
         <div class="row">
             <div class="col-6">
-                <a class="navbar-brand" href="index.php"><img class="img-fluid p-1 w-50" src="\assets\img\logos\logo.png"></a>
+                <a class="navbar-brand" href="index.php"><img class="img-fluid p-1 w-50" src="\assets\img\logos\logo.png" alt="logo PatroComares"></a>
             </div>
             <div class="col-6 d-flex justify-content-end">
                 <button class="navbar-toggler text-uppercase font-weight-bold text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
