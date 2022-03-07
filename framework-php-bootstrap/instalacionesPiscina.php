@@ -18,7 +18,7 @@
                     <h2>Instalaciones Piscina</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgInstalaciones\piscina.png" alt="piscina">
+                    <img class="img-fluid" alt="Piscina municipal" src="assets\img\imgInstalaciones\piscina.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <br><br>
