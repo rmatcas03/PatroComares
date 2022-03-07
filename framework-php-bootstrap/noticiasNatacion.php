@@ -26,7 +26,7 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Natación</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\natacion12.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgTrabajo\natacion12.jpg" alt="Saltando de cabeza a la piscina en clase de natación" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Clases de natación</h4>
               </div>

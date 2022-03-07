@@ -26,7 +26,7 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Atletismo</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\atletismo12.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgTrabajo\atletismo12.jpg" alt="Niños preparados para una carrera de atletismo" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Club de atletismo Amo allá</h4>
               </div>

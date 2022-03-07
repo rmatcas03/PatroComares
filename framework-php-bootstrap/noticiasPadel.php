@@ -26,7 +26,7 @@
           <div class="col-lg-8">
             <div class="card  border-0 polaroid">
               <h2 class="text-center">Pádel</h2>
-              <img class="card-img-top" src="assets\img\imgTrabajo\padel12.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgTrabajo\padel12.jpg" alt="Pareja de padel celebrando un punto del partido" style="width:100%">
               <div class="card-body">
                 <h4 class="card-title">Torneo X Navidad pádel</h4>
               </div>

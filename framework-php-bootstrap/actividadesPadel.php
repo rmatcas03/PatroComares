@@ -25,7 +25,7 @@
               
               <div class="card-body">
                 <p class="card-text text-center"> Padel para todos </p>
-                <img class="card-img-top" src="assets\img\imgActividades\padel1.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets\img\imgActividades\padel1.jpg" alt="Clase de pádel, partido entre alumnos">
                 <p class="card-text">
                 El pádel como deporte surgió desde 1990 y desde su nacimiento tuvo gran aceptación por parte de un buen numero de practicantes, lo que lo ha hecho muy practicado y de un rápido desarrollo.
 
@@ -64,12 +64,11 @@
                     </p>
                   </video>
                   <div id="video-controls">
-                    <button type="button" id="play-pause" class="play"> <span class="visually-hidden">botón de play </span> <i class="fas fa-play"></i> </button>
-                    <progress id="seek-bar" value="0" max="100"> </progress>
-                    <button type="button" id="mute"> <span class="visually-hidden">botón de sonido </span>  <i class="fas fa-volume-mute"></i> </button>
+                    <button type="button" id="play-pause" class="play"> <i class="fas fa-play"></i> </button>
+                    <progress id="seek-bar" value="0" max="100"></progress>
+                    <button type="button" id="mute"> <i class="fas fa-volume-mute"></i> </button>
                     <input type="range" id="volume-bar" min="0" max="1" step="0.1" value="1">
-                    <label for="volume-bar"> <span class="visually-hidden">barra de sonido </span> </label>
-                    <button type="button" id="full-screen"> <span class="visually-hidden">botón de pantalla completa </span> <i class="fas fa-compress"></i> </button>
+                    <button type="button" id="full-screen"> <i class="fas fa-compress"></i> </button>
                   </div>
                 </div>
 
