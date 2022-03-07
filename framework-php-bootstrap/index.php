@@ -33,14 +33,14 @@ include("includes/googleconnect.php")?>
                         <!-- The slideshow/carousel -->
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img src="assets\img\carroussel\descarga1.jpg" alt="Chicago" style="width: 100%; height: 550px;" class="d-block w-100">
+                                <img src="assets\img\carroussel\descarga1.jpg" alt="Partido de pádel" style="width: 100%; height: 550px;" class="d-block w-100">
                             </div>
                             <div class="carousel-item">
-                                <img src="assets\img\carroussel\descarga.jpg" alt="Los Angeles" style="width: 100%; height: 550px;" class="d-block w-100">
+                                <img src="assets\img\carroussel\descarga.jpg" alt="Carrera de atletismo" style="width: 100%; height: 550px;" class="d-block w-100">
 
                             </div>
                             <div class="carousel-item">
-                                <img src="assets\img\carroussel\images.jpg" alt="New York" style="width: 100%; height: 550px;" class="d-block w-100">
+                                <img src="assets\img\carroussel\images.jpg" alt="Chica nadando" style="width: 100%; height: 550px;" class="d-block w-100">
                             </div>
                         </div>
 

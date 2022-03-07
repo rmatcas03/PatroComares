@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
+<!--
 <url>
   <loc>http://localhost/index.php</loc>
 </url>
@@ -24,8 +24,8 @@
 <url>
   <loc>http://localhost/eventos.php</loc>
 </url>
+-->
 
-<!--
   <url>
 <loc>https://patrocomares.iesmarquesdecomares.org/index.php</loc>
 <lastmod>2022-02-24T11:23:51+00:00</lastmod>
@@ -51,5 +51,5 @@
 <lastmod>2022-02-24T11:23:51+00:00</lastmod>
 <priority>0.40</priority>
 </url>
--->
+
 </urlset>

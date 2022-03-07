@@ -12,7 +12,7 @@
                 </p>
             </div>
             <div class="col-lg-6 mb-lg-0">
-                <img src="\assets\img\logos\lucena.png" alt="escudo" width="172" height="287"><br>
+                <img src="\assets\img\logos\lucena.png" alt="Escudo ciudad de Lucena" width="172" height="287"><br>
             </div>
 
             <div class="col-lg-3 mb-lg-0">

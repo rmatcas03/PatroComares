@@ -23,7 +23,7 @@
           <div class="container-fluid d-flex justify-content-center row mt-3 ">
             <div class="card col-lg-6 border-0 polaroid">
               <h2 class="text-center">¿Recuerdas las parejas?</h2>
-              <img class="card-img-top" src="assets\img\imgJuegos\juegoPenaltis.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgJuegos\juegoPenaltis.jpg" alt="Juego de penaltis" style="width:100%">
               <div class="card-body">
                 <p class="card-text">¿Serás capaz de marcar al mejor portero de todos los tiempos? ¡Prueba suerte en Penaltis Shoot!</p>
                 <a href="juegos\JuegoJesus\juego_penaltis\juego.html" class="btn btn-secondary">Jugar</a>
@@ -31,7 +31,7 @@
             </div>
             <div class="card col-lg-6 border-0 polaroid">
               <h2 class="text-center">Messi Invaders</h2>
-              <img class="card-img-top" src="assets\img\imgJuegos\juegoMessiInvaders.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgJuegos\juegoMessiInvaders.jpg" alt="Juego de derrotar a Messi" style="width:100%">
               <div class="card-body">
                 <p class="card-text">Messi no para de lanzar sus Balones de Oro a Cristiano Ronaldo. ¡Intenta esquivarlos disparando balones!</p>
                 <a href="juegos\JuegoDavid\Messi Invaders\src\videojuego-javascript.html" class="btn btn-secondary">Jugar</a>
@@ -41,7 +41,7 @@
           <div class="container-fluid d-flex justify-content-center row mt-3 ">
             <div class="card col-lg-6 border-0 polaroid">
               <h2 class="text-center">¿Recuerdas las parejas?</h2>
-              <img class="card-img-top" src="assets\img\imgJuegos\juegoParejas.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgJuegos\juegoParejas.jpg" alt="Juego de recordar las parejas" style="width:100%">
               <div class="card-body">
                 <p class="card-text">¿Serás capaz de recordar las parejas de nuestros deportes favoritos?</p>
                 <a href="juegos\JuegoRuben\juego.html" class="btn btn-secondary">Jugar</a>
@@ -49,7 +49,7 @@
             </div>
             <div class="card col-lg-6 border-0 polaroid">
               <h2 class="text-center">Bola Loca</h2>
-              <img class="card-img-top" src="assets\img\imgJuegos\juegoBolaLoca.jpg" alt="Card image" style="width:100%">
+              <img class="card-img-top" src="assets\img\imgJuegos\juegoBolaLoca.jpg" alt="Juego de la bola loca" style="width:100%">
               <div class="card-body">
                 <p class="card-text">¡Consigue atrapar la Bola Loca!</p>
                 <a href="juegos\JuegoJoseLuis\juego.html" class="btn btn-secondary">Jugar</a>

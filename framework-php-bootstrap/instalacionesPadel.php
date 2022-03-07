@@ -18,7 +18,7 @@
                     <h2>Instalaciones Pádel</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgInstalaciones\padel.png">
+                    <img class="img-fluid" alt="Pista de pádel" src="assets\img\imgInstalaciones\padel.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <p>Padel Patronato es uno de los mejores centros de Cabra. Pocos recintos en la zona congregan una oferta deportiva tan amplia como lo hace esta instalación.</p>

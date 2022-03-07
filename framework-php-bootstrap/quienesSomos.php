@@ -26,7 +26,7 @@
 
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\jesus.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\jesus.jpg" alt="Miembro del equipo de trabajo de la página">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
@@ -38,7 +38,7 @@
                     </div>  
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\ruben.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\ruben.jpg" alt="Miembro del equipo de trabajo de la página">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
@@ -54,7 +54,7 @@
                 <div class="col-lg-6">
                     <div class="row border border-5 border-info m-1">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\david.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\david.jpg" alt="Miembro del equipo de trabajo de la página">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>
@@ -66,7 +66,7 @@
                     </div>  
                     <div class="row border border-5 border-info m-1 mb-5">
                         <div class="col">
-                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\joseluis.jpg" alt="Card image">
+                        <img class="img-fluid p-1" src="assets\img\imgQuienesSomos\joseluis.jpg" alt="Miembro del equipo de trabajo de la página">
                         </div>
                         <div class="col">
                             <h3>Datos Personales</h3>

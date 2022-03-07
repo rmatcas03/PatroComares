@@ -18,7 +18,7 @@
                     <h2>Instalaciones Fútbol</h2>
                 </div>
                 <div class="col-6">
-                    <img class="img-fluid" src="assets\img\imgInstalaciones\futbol.png">
+                    <img class="img-fluid" alt="Campo de fútbol" src="assets\img\imgInstalaciones\futbol.png">
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <br><br><br>

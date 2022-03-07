@@ -25,7 +25,7 @@
               
               <div class="card-body">
                 <p class="card-text text-center"> Partidos mas destacados </p>
-                <img class="card-img-top" src="assets\img\imgActividades\tenis1.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets\img\imgActividades\tenis1.jpg" alt="Partido de tenis">
                 <p class="card-text"> 
                 El tenis es uno de los juegos más populares y practicados que existen. Con este deporte  ejercitarás cuerpo y mente y podrás practicarlo de manera individual o en equipo. Además es uno de los pocos deportes que permite jugar a hombres y mujeres al mismo tiempo. Y por supuesto, es bueno para todas las edades, por ejemplo, el tenis infantil, así que no tienes excusa para probarlo. Además, existen otras modalidades como el tenis de mesa que no puedes dejar pasar por alto.
                 </p>

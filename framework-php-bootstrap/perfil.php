@@ -18,7 +18,7 @@
 <div class="col-lg-6">
     <div class="card border-0 mx-5" style="width:250px">
         <h2 class="mx-5 text-center">Mi perfil</h2>
-        <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Card image">
+        <img class="card-img-top " src="assets\img\imgTrabajo\image.jpg" alt="Imagen de perfil del usuario">
         <div class="card-body">
 
             <div class="container-fluid text-center">

@@ -25,7 +25,7 @@
               
               <div class="card-body">
                 <p class="card-text text-center"> La importancia de la defensa personal </p>
-                <img class="card-img-top" src="assets\img\imgActividades\defensa1.jpg" alt="Card image cap">
+                <img class="card-img-top" src="assets\img\imgActividades\defensa1.jpg" alt="Lucha entre dos hombres de defensa personal">
                 <p class="card-text">                  
                 A través de la defensa personal aprenderás a desarrollar tus habilidades, tanto físicas como mentales, para aplicarlas debidamente ante situaciones de peligro y evitar así entrar en episodios de pánico y bloquearte. Con ellas mejorarás tu estado de forma física, lucharás contra el estrés y podrás potenciar tu instinto, detectando mejor según qué situaciones.
 
