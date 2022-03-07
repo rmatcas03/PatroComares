@@ -32,7 +32,7 @@
 
       <div class="col-md-6">
         <label for="Actividad" class="form-label">Actividad</label>
-        <input type="actividad" class="form-control" name="actividad" value="<?php echo $_GET['actividad']; ?>">
+        <input type="actividad" class="form-control" id="Actividad" name="actividad" value="<?php echo $_GET['actividad']; ?>">
         <input type="hidden"  name="id_actividad" value="<?php echo $_GET['id_actividad']; ?>">
       </div>
 
@@ -40,7 +40,7 @@
 
       <div class="col-md-6">
         <label for="Fecha" class="form-label">Fecha Inscripcion</label>
-        <input type="date" class="form-control" id="fecha" name="trip-start"
+        <input type="date" class="form-control" id="Fecha" name="trip-start"
               value=""
               min="<?php echo date("Y-m-d");  ?>" max="<?php $date = date("Y-m-d");
                                                               echo date('Y-m-d', strtotime("+12 months $date"));?>">

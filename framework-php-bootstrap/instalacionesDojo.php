@@ -18,7 +18,11 @@
                     <h2>Instalaciones Dojo</h2>
                 </div>
                 <div class="col-6">
+<<<<<<< HEAD
                     <img class="img-fluid"  alt="Pista de defensa personal" src="assets\img\imgInstalaciones\dojo.png">
+=======
+                    <img class="img-fluid" src="assets\img\imgInstalaciones\dojo.png" alt="dojo">
+>>>>>>> 8a5fd349b147eed7cb455e9d23f88b8d6c25ba3e
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <p>Nuestra escuela, situada en el edificio Avenida Montes Sierra 36, dispone de más de 500m2 dedicados a la formación integral del individuo.</p>

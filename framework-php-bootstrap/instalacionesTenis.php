@@ -18,7 +18,11 @@
                     <h2>Instalaciones Tenis</h2>
                 </div>
                 <div class="col-6">
+<<<<<<< HEAD
                     <img class="img-fluid" alt="Pista de tenis" src="assets\img\imgInstalaciones\tenis12.jpg">
+=======
+                    <img class="img-fluid" src="assets\img\imgInstalaciones\tenis12.jpg" alt="pista de tenis">
+>>>>>>> 8a5fd349b147eed7cb455e9d23f88b8d6c25ba3e
                 </div>
                 <div class="col-6 d-flex flex-column">
                     <p>Tenis Patronato es uno de los mejores centros de Cabra. Pocos recintos en la zona congregan una oferta deportiva tan amplia como lo hace esta instalación.</p>
